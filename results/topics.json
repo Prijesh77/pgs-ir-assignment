@@ -1,0 +1,5120 @@
+[
+ {
+  "id": "T1-D01",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Bhojpur district",
+  "relevant": [
+   "MUN001",
+   "MUN002",
+   "MUN003",
+   "MUN004",
+   "MUN005",
+   "MUN006",
+   "MUN007",
+   "MUN008",
+   "MUN009"
+  ]
+ },
+ {
+  "id": "T2-D01",
+  "group": "T2 locals by district (NE)",
+  "query": "भोजपुर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN001",
+   "MUN002",
+   "MUN003",
+   "MUN004",
+   "MUN005",
+   "MUN006",
+   "MUN007",
+   "MUN008",
+   "MUN009"
+  ]
+ },
+ {
+  "id": "T1-D02",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dhankuta district",
+  "relevant": [
+   "MUN010",
+   "MUN011",
+   "MUN012",
+   "MUN013",
+   "MUN014",
+   "MUN015",
+   "MUN016"
+  ]
+ },
+ {
+  "id": "T2-D02",
+  "group": "T2 locals by district (NE)",
+  "query": "धनकुटा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN010",
+   "MUN011",
+   "MUN012",
+   "MUN013",
+   "MUN014",
+   "MUN015",
+   "MUN016"
+  ]
+ },
+ {
+  "id": "T1-D03",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Ilam district",
+  "relevant": [
+   "MUN017",
+   "MUN018",
+   "MUN019",
+   "MUN020",
+   "MUN021",
+   "MUN022",
+   "MUN023",
+   "MUN024",
+   "MUN025",
+   "MUN026"
+  ]
+ },
+ {
+  "id": "T2-D03",
+  "group": "T2 locals by district (NE)",
+  "query": "इलाम जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN017",
+   "MUN018",
+   "MUN019",
+   "MUN020",
+   "MUN021",
+   "MUN022",
+   "MUN023",
+   "MUN024",
+   "MUN025",
+   "MUN026"
+  ]
+ },
+ {
+  "id": "T1-D04",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Jhapa district",
+  "relevant": [
+   "MUN027",
+   "MUN028",
+   "MUN029",
+   "MUN030",
+   "MUN031",
+   "MUN032",
+   "MUN033",
+   "MUN034",
+   "MUN035",
+   "MUN036",
+   "MUN037",
+   "MUN038",
+   "MUN039",
+   "MUN040",
+   "MUN041"
+  ]
+ },
+ {
+  "id": "T2-D04",
+  "group": "T2 locals by district (NE)",
+  "query": "झापा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN027",
+   "MUN028",
+   "MUN029",
+   "MUN030",
+   "MUN031",
+   "MUN032",
+   "MUN033",
+   "MUN034",
+   "MUN035",
+   "MUN036",
+   "MUN037",
+   "MUN038",
+   "MUN039",
+   "MUN040",
+   "MUN041"
+  ]
+ },
+ {
+  "id": "T1-D05",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Khotang district",
+  "relevant": [
+   "MUN042",
+   "MUN043",
+   "MUN044",
+   "MUN045",
+   "MUN046",
+   "MUN047",
+   "MUN048",
+   "MUN049",
+   "MUN050",
+   "MUN051"
+  ]
+ },
+ {
+  "id": "T2-D05",
+  "group": "T2 locals by district (NE)",
+  "query": "खोटाँग जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN042",
+   "MUN043",
+   "MUN044",
+   "MUN045",
+   "MUN046",
+   "MUN047",
+   "MUN048",
+   "MUN049",
+   "MUN050",
+   "MUN051"
+  ]
+ },
+ {
+  "id": "T1-D06",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Morang district",
+  "relevant": [
+   "MUN052",
+   "MUN053",
+   "MUN054",
+   "MUN055",
+   "MUN056",
+   "MUN057",
+   "MUN058",
+   "MUN059",
+   "MUN060",
+   "MUN061",
+   "MUN062",
+   "MUN063",
+   "MUN064",
+   "MUN065",
+   "MUN066",
+   "MUN067",
+   "MUN068"
+  ]
+ },
+ {
+  "id": "T2-D06",
+  "group": "T2 locals by district (NE)",
+  "query": "मोरंग जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN052",
+   "MUN053",
+   "MUN054",
+   "MUN055",
+   "MUN056",
+   "MUN057",
+   "MUN058",
+   "MUN059",
+   "MUN060",
+   "MUN061",
+   "MUN062",
+   "MUN063",
+   "MUN064",
+   "MUN065",
+   "MUN066",
+   "MUN067",
+   "MUN068"
+  ]
+ },
+ {
+  "id": "T1-D07",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Okhaldhunga district",
+  "relevant": [
+   "MUN069",
+   "MUN070",
+   "MUN071",
+   "MUN072",
+   "MUN073",
+   "MUN074",
+   "MUN075",
+   "MUN076"
+  ]
+ },
+ {
+  "id": "T2-D07",
+  "group": "T2 locals by district (NE)",
+  "query": "ओखलढुंगा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN069",
+   "MUN070",
+   "MUN071",
+   "MUN072",
+   "MUN073",
+   "MUN074",
+   "MUN075",
+   "MUN076"
+  ]
+ },
+ {
+  "id": "T1-D08",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Pachthar district",
+  "relevant": [
+   "MUN077",
+   "MUN078",
+   "MUN079",
+   "MUN080",
+   "MUN081",
+   "MUN082",
+   "MUN083",
+   "MUN084"
+  ]
+ },
+ {
+  "id": "T2-D08",
+  "group": "T2 locals by district (NE)",
+  "query": "पांचथर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN077",
+   "MUN078",
+   "MUN079",
+   "MUN080",
+   "MUN081",
+   "MUN082",
+   "MUN083",
+   "MUN084"
+  ]
+ },
+ {
+  "id": "T1-D09",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Sankhuwasabha district",
+  "relevant": [
+   "MUN085",
+   "MUN086",
+   "MUN087",
+   "MUN088",
+   "MUN089",
+   "MUN090",
+   "MUN091",
+   "MUN092",
+   "MUN093",
+   "MUN094"
+  ]
+ },
+ {
+  "id": "T2-D09",
+  "group": "T2 locals by district (NE)",
+  "query": "संखुवासभा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN085",
+   "MUN086",
+   "MUN087",
+   "MUN088",
+   "MUN089",
+   "MUN090",
+   "MUN091",
+   "MUN092",
+   "MUN093",
+   "MUN094"
+  ]
+ },
+ {
+  "id": "T1-D10",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Solukhumbu district",
+  "relevant": [
+   "MUN095",
+   "MUN096",
+   "MUN097",
+   "MUN098",
+   "MUN099",
+   "MUN100",
+   "MUN101",
+   "MUN102"
+  ]
+ },
+ {
+  "id": "T2-D10",
+  "group": "T2 locals by district (NE)",
+  "query": "सोलुखुम्बू जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN095",
+   "MUN096",
+   "MUN097",
+   "MUN098",
+   "MUN099",
+   "MUN100",
+   "MUN101",
+   "MUN102"
+  ]
+ },
+ {
+  "id": "T1-D11",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Sunsari district",
+  "relevant": [
+   "MUN103",
+   "MUN104",
+   "MUN105",
+   "MUN106",
+   "MUN107",
+   "MUN108",
+   "MUN109",
+   "MUN110",
+   "MUN111",
+   "MUN112",
+   "MUN113",
+   "MUN114"
+  ]
+ },
+ {
+  "id": "T2-D11",
+  "group": "T2 locals by district (NE)",
+  "query": "सुनसरी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN103",
+   "MUN104",
+   "MUN105",
+   "MUN106",
+   "MUN107",
+   "MUN108",
+   "MUN109",
+   "MUN110",
+   "MUN111",
+   "MUN112",
+   "MUN113",
+   "MUN114"
+  ]
+ },
+ {
+  "id": "T1-D12",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Taplejung district",
+  "relevant": [
+   "MUN115",
+   "MUN116",
+   "MUN117",
+   "MUN118",
+   "MUN119",
+   "MUN120",
+   "MUN121",
+   "MUN122",
+   "MUN123"
+  ]
+ },
+ {
+  "id": "T2-D12",
+  "group": "T2 locals by district (NE)",
+  "query": "ताप्लेजुंग जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN115",
+   "MUN116",
+   "MUN117",
+   "MUN118",
+   "MUN119",
+   "MUN120",
+   "MUN121",
+   "MUN122",
+   "MUN123"
+  ]
+ },
+ {
+  "id": "T1-D13",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Terhathum district",
+  "relevant": [
+   "MUN124",
+   "MUN125",
+   "MUN126",
+   "MUN127",
+   "MUN128",
+   "MUN129"
+  ]
+ },
+ {
+  "id": "T2-D13",
+  "group": "T2 locals by district (NE)",
+  "query": "तेह्रथुम जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN124",
+   "MUN125",
+   "MUN126",
+   "MUN127",
+   "MUN128",
+   "MUN129"
+  ]
+ },
+ {
+  "id": "T1-D14",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Udayapur district",
+  "relevant": [
+   "MUN130",
+   "MUN131",
+   "MUN132",
+   "MUN133",
+   "MUN134",
+   "MUN135",
+   "MUN136",
+   "MUN137"
+  ]
+ },
+ {
+  "id": "T2-D14",
+  "group": "T2 locals by district (NE)",
+  "query": "उदयपुर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN130",
+   "MUN131",
+   "MUN132",
+   "MUN133",
+   "MUN134",
+   "MUN135",
+   "MUN136",
+   "MUN137"
+  ]
+ },
+ {
+  "id": "T1-D15",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Parsa district",
+  "relevant": [
+   "MUN138",
+   "MUN139",
+   "MUN140",
+   "MUN141",
+   "MUN142",
+   "MUN143",
+   "MUN144",
+   "MUN145",
+   "MUN146",
+   "MUN147",
+   "MUN148",
+   "MUN149",
+   "MUN150",
+   "MUN151"
+  ]
+ },
+ {
+  "id": "T2-D15",
+  "group": "T2 locals by district (NE)",
+  "query": "पर्सा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN138",
+   "MUN139",
+   "MUN140",
+   "MUN141",
+   "MUN142",
+   "MUN143",
+   "MUN144",
+   "MUN145",
+   "MUN146",
+   "MUN147",
+   "MUN148",
+   "MUN149",
+   "MUN150",
+   "MUN151"
+  ]
+ },
+ {
+  "id": "T1-D16",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Bara district",
+  "relevant": [
+   "MUN152",
+   "MUN153",
+   "MUN154",
+   "MUN155",
+   "MUN156",
+   "MUN157",
+   "MUN158",
+   "MUN159",
+   "MUN160",
+   "MUN161",
+   "MUN162",
+   "MUN163",
+   "MUN164",
+   "MUN165",
+   "MUN166",
+   "MUN167"
+  ]
+ },
+ {
+  "id": "T2-D16",
+  "group": "T2 locals by district (NE)",
+  "query": "बारा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN152",
+   "MUN153",
+   "MUN154",
+   "MUN155",
+   "MUN156",
+   "MUN157",
+   "MUN158",
+   "MUN159",
+   "MUN160",
+   "MUN161",
+   "MUN162",
+   "MUN163",
+   "MUN164",
+   "MUN165",
+   "MUN166",
+   "MUN167"
+  ]
+ },
+ {
+  "id": "T1-D17",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Rautahat district",
+  "relevant": [
+   "MUN168",
+   "MUN169",
+   "MUN170",
+   "MUN171",
+   "MUN172",
+   "MUN173",
+   "MUN174",
+   "MUN175",
+   "MUN176",
+   "MUN177",
+   "MUN178",
+   "MUN179",
+   "MUN180",
+   "MUN181",
+   "MUN182",
+   "MUN183",
+   "MUN184",
+   "MUN185"
+  ]
+ },
+ {
+  "id": "T2-D17",
+  "group": "T2 locals by district (NE)",
+  "query": "रौतहट जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN168",
+   "MUN169",
+   "MUN170",
+   "MUN171",
+   "MUN172",
+   "MUN173",
+   "MUN174",
+   "MUN175",
+   "MUN176",
+   "MUN177",
+   "MUN178",
+   "MUN179",
+   "MUN180",
+   "MUN181",
+   "MUN182",
+   "MUN183",
+   "MUN184",
+   "MUN185"
+  ]
+ },
+ {
+  "id": "T1-D18",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Sarlahi district",
+  "relevant": [
+   "MUN186",
+   "MUN187",
+   "MUN188",
+   "MUN189",
+   "MUN190",
+   "MUN191",
+   "MUN192",
+   "MUN193",
+   "MUN194",
+   "MUN195",
+   "MUN196",
+   "MUN197",
+   "MUN198",
+   "MUN199",
+   "MUN200",
+   "MUN201",
+   "MUN202",
+   "MUN203",
+   "MUN204",
+   "MUN205"
+  ]
+ },
+ {
+  "id": "T2-D18",
+  "group": "T2 locals by district (NE)",
+  "query": "सर्लाही जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN186",
+   "MUN187",
+   "MUN188",
+   "MUN189",
+   "MUN190",
+   "MUN191",
+   "MUN192",
+   "MUN193",
+   "MUN194",
+   "MUN195",
+   "MUN196",
+   "MUN197",
+   "MUN198",
+   "MUN199",
+   "MUN200",
+   "MUN201",
+   "MUN202",
+   "MUN203",
+   "MUN204",
+   "MUN205"
+  ]
+ },
+ {
+  "id": "T1-D19",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Siraha district",
+  "relevant": [
+   "MUN206",
+   "MUN207",
+   "MUN208",
+   "MUN209",
+   "MUN210",
+   "MUN211",
+   "MUN212",
+   "MUN213",
+   "MUN214",
+   "MUN215",
+   "MUN216",
+   "MUN217",
+   "MUN218",
+   "MUN219",
+   "MUN220",
+   "MUN221",
+   "MUN222"
+  ]
+ },
+ {
+  "id": "T2-D19",
+  "group": "T2 locals by district (NE)",
+  "query": "सिराहा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN206",
+   "MUN207",
+   "MUN208",
+   "MUN209",
+   "MUN210",
+   "MUN211",
+   "MUN212",
+   "MUN213",
+   "MUN214",
+   "MUN215",
+   "MUN216",
+   "MUN217",
+   "MUN218",
+   "MUN219",
+   "MUN220",
+   "MUN221",
+   "MUN222"
+  ]
+ },
+ {
+  "id": "T1-D20",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dhanusha district",
+  "relevant": [
+   "MUN223",
+   "MUN224",
+   "MUN225",
+   "MUN226",
+   "MUN227",
+   "MUN228",
+   "MUN229",
+   "MUN230",
+   "MUN231",
+   "MUN232",
+   "MUN233",
+   "MUN234",
+   "MUN235",
+   "MUN236",
+   "MUN237",
+   "MUN238",
+   "MUN239",
+   "MUN240"
+  ]
+ },
+ {
+  "id": "T2-D20",
+  "group": "T2 locals by district (NE)",
+  "query": "धनुषा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN223",
+   "MUN224",
+   "MUN225",
+   "MUN226",
+   "MUN227",
+   "MUN228",
+   "MUN229",
+   "MUN230",
+   "MUN231",
+   "MUN232",
+   "MUN233",
+   "MUN234",
+   "MUN235",
+   "MUN236",
+   "MUN237",
+   "MUN238",
+   "MUN239",
+   "MUN240"
+  ]
+ },
+ {
+  "id": "T1-D21",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Saptari district",
+  "relevant": [
+   "MUN241",
+   "MUN242",
+   "MUN243",
+   "MUN244",
+   "MUN245",
+   "MUN246",
+   "MUN247",
+   "MUN248",
+   "MUN249",
+   "MUN250",
+   "MUN251",
+   "MUN252",
+   "MUN253",
+   "MUN254",
+   "MUN255",
+   "MUN256",
+   "MUN257",
+   "MUN258"
+  ]
+ },
+ {
+  "id": "T2-D21",
+  "group": "T2 locals by district (NE)",
+  "query": "सप्तरी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN241",
+   "MUN242",
+   "MUN243",
+   "MUN244",
+   "MUN245",
+   "MUN246",
+   "MUN247",
+   "MUN248",
+   "MUN249",
+   "MUN250",
+   "MUN251",
+   "MUN252",
+   "MUN253",
+   "MUN254",
+   "MUN255",
+   "MUN256",
+   "MUN257",
+   "MUN258"
+  ]
+ },
+ {
+  "id": "T1-D22",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Mahottari district",
+  "relevant": [
+   "MUN259",
+   "MUN260",
+   "MUN261",
+   "MUN262",
+   "MUN263",
+   "MUN264",
+   "MUN265",
+   "MUN266",
+   "MUN267",
+   "MUN268",
+   "MUN269",
+   "MUN270",
+   "MUN271",
+   "MUN272",
+   "MUN273"
+  ]
+ },
+ {
+  "id": "T2-D22",
+  "group": "T2 locals by district (NE)",
+  "query": "महोत्तरी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN259",
+   "MUN260",
+   "MUN261",
+   "MUN262",
+   "MUN263",
+   "MUN264",
+   "MUN265",
+   "MUN266",
+   "MUN267",
+   "MUN268",
+   "MUN269",
+   "MUN270",
+   "MUN271",
+   "MUN272",
+   "MUN273"
+  ]
+ },
+ {
+  "id": "T1-D23",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Bhaktapur district",
+  "relevant": [
+   "MUN274",
+   "MUN275",
+   "MUN276",
+   "MUN277"
+  ]
+ },
+ {
+  "id": "T2-D23",
+  "group": "T2 locals by district (NE)",
+  "query": "भक्तपुर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN274",
+   "MUN275",
+   "MUN276",
+   "MUN277"
+  ]
+ },
+ {
+  "id": "T1-D24",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Chitwan district",
+  "relevant": [
+   "MUN278",
+   "MUN279",
+   "MUN280",
+   "MUN281",
+   "MUN282",
+   "MUN283",
+   "MUN284"
+  ]
+ },
+ {
+  "id": "T2-D24",
+  "group": "T2 locals by district (NE)",
+  "query": "चितवन जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN278",
+   "MUN279",
+   "MUN280",
+   "MUN281",
+   "MUN282",
+   "MUN283",
+   "MUN284"
+  ]
+ },
+ {
+  "id": "T1-D25",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dhading district",
+  "relevant": [
+   "MUN285",
+   "MUN286",
+   "MUN287",
+   "MUN288",
+   "MUN289",
+   "MUN290",
+   "MUN291",
+   "MUN292",
+   "MUN293",
+   "MUN294",
+   "MUN295",
+   "MUN296",
+   "MUN297"
+  ]
+ },
+ {
+  "id": "T2-D25",
+  "group": "T2 locals by district (NE)",
+  "query": "धादिंङ्ग जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN285",
+   "MUN286",
+   "MUN287",
+   "MUN288",
+   "MUN289",
+   "MUN290",
+   "MUN291",
+   "MUN292",
+   "MUN293",
+   "MUN294",
+   "MUN295",
+   "MUN296",
+   "MUN297"
+  ]
+ },
+ {
+  "id": "T1-D26",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dolakha district",
+  "relevant": [
+   "MUN298",
+   "MUN299",
+   "MUN300",
+   "MUN301",
+   "MUN302",
+   "MUN303",
+   "MUN304",
+   "MUN305",
+   "MUN306"
+  ]
+ },
+ {
+  "id": "T2-D26",
+  "group": "T2 locals by district (NE)",
+  "query": "दोलखा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN298",
+   "MUN299",
+   "MUN300",
+   "MUN301",
+   "MUN302",
+   "MUN303",
+   "MUN304",
+   "MUN305",
+   "MUN306"
+  ]
+ },
+ {
+  "id": "T1-D27",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Kathmandu district",
+  "relevant": [
+   "MUN307",
+   "MUN308",
+   "MUN309",
+   "MUN310",
+   "MUN311",
+   "MUN312",
+   "MUN313",
+   "MUN314",
+   "MUN315",
+   "MUN316",
+   "MUN317"
+  ]
+ },
+ {
+  "id": "T2-D27",
+  "group": "T2 locals by district (NE)",
+  "query": "काठमाडौँ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN307",
+   "MUN308",
+   "MUN309",
+   "MUN310",
+   "MUN311",
+   "MUN312",
+   "MUN313",
+   "MUN314",
+   "MUN315",
+   "MUN316",
+   "MUN317"
+  ]
+ },
+ {
+  "id": "T1-D28",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Kavrepalanchok district",
+  "relevant": [
+   "MUN318",
+   "MUN319",
+   "MUN320",
+   "MUN321",
+   "MUN322",
+   "MUN323",
+   "MUN324",
+   "MUN325",
+   "MUN326",
+   "MUN327",
+   "MUN328",
+   "MUN329",
+   "MUN330"
+  ]
+ },
+ {
+  "id": "T2-D28",
+  "group": "T2 locals by district (NE)",
+  "query": "काभ्रेपलान्चोक जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN318",
+   "MUN319",
+   "MUN320",
+   "MUN321",
+   "MUN322",
+   "MUN323",
+   "MUN324",
+   "MUN325",
+   "MUN326",
+   "MUN327",
+   "MUN328",
+   "MUN329",
+   "MUN330"
+  ]
+ },
+ {
+  "id": "T1-D29",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Lalitpur district",
+  "relevant": [
+   "MUN331",
+   "MUN332",
+   "MUN333",
+   "MUN334",
+   "MUN335",
+   "MUN336"
+  ]
+ },
+ {
+  "id": "T2-D29",
+  "group": "T2 locals by district (NE)",
+  "query": "ललितपुर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN331",
+   "MUN332",
+   "MUN333",
+   "MUN334",
+   "MUN335",
+   "MUN336"
+  ]
+ },
+ {
+  "id": "T1-D30",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Makwanpur district",
+  "relevant": [
+   "MUN337",
+   "MUN338",
+   "MUN339",
+   "MUN340",
+   "MUN341",
+   "MUN342",
+   "MUN343",
+   "MUN344",
+   "MUN345",
+   "MUN346"
+  ]
+ },
+ {
+  "id": "T2-D30",
+  "group": "T2 locals by district (NE)",
+  "query": "मकवानपुर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN337",
+   "MUN338",
+   "MUN339",
+   "MUN340",
+   "MUN341",
+   "MUN342",
+   "MUN343",
+   "MUN344",
+   "MUN345",
+   "MUN346"
+  ]
+ },
+ {
+  "id": "T1-D31",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Nuwakot district",
+  "relevant": [
+   "MUN347",
+   "MUN348",
+   "MUN349",
+   "MUN350",
+   "MUN351",
+   "MUN352",
+   "MUN353",
+   "MUN354",
+   "MUN355",
+   "MUN356",
+   "MUN357",
+   "MUN358"
+  ]
+ },
+ {
+  "id": "T2-D31",
+  "group": "T2 locals by district (NE)",
+  "query": "नुवाकोट जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN347",
+   "MUN348",
+   "MUN349",
+   "MUN350",
+   "MUN351",
+   "MUN352",
+   "MUN353",
+   "MUN354",
+   "MUN355",
+   "MUN356",
+   "MUN357",
+   "MUN358"
+  ]
+ },
+ {
+  "id": "T1-D32",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Ramechap district",
+  "relevant": [
+   "MUN359",
+   "MUN360",
+   "MUN361",
+   "MUN362",
+   "MUN363",
+   "MUN364",
+   "MUN365",
+   "MUN366"
+  ]
+ },
+ {
+  "id": "T2-D32",
+  "group": "T2 locals by district (NE)",
+  "query": "रामेछाप जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN359",
+   "MUN360",
+   "MUN361",
+   "MUN362",
+   "MUN363",
+   "MUN364",
+   "MUN365",
+   "MUN366"
+  ]
+ },
+ {
+  "id": "T1-D33",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Rasuwa district",
+  "relevant": [
+   "MUN367",
+   "MUN368",
+   "MUN369",
+   "MUN370",
+   "MUN371"
+  ]
+ },
+ {
+  "id": "T2-D33",
+  "group": "T2 locals by district (NE)",
+  "query": "रसुवा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN367",
+   "MUN368",
+   "MUN369",
+   "MUN370",
+   "MUN371"
+  ]
+ },
+ {
+  "id": "T1-D34",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Sindhuli district",
+  "relevant": [
+   "MUN372",
+   "MUN373",
+   "MUN374",
+   "MUN375",
+   "MUN376",
+   "MUN377",
+   "MUN378",
+   "MUN379",
+   "MUN380"
+  ]
+ },
+ {
+  "id": "T2-D34",
+  "group": "T2 locals by district (NE)",
+  "query": "सिन्धुली जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN372",
+   "MUN373",
+   "MUN374",
+   "MUN375",
+   "MUN376",
+   "MUN377",
+   "MUN378",
+   "MUN379",
+   "MUN380"
+  ]
+ },
+ {
+  "id": "T1-D35",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Sindhupalchok district",
+  "relevant": [
+   "MUN381",
+   "MUN382",
+   "MUN383",
+   "MUN384",
+   "MUN385",
+   "MUN386",
+   "MUN387",
+   "MUN388",
+   "MUN389",
+   "MUN390",
+   "MUN391",
+   "MUN392"
+  ]
+ },
+ {
+  "id": "T2-D35",
+  "group": "T2 locals by district (NE)",
+  "query": "सिन्धुपाल्चोक जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN381",
+   "MUN382",
+   "MUN383",
+   "MUN384",
+   "MUN385",
+   "MUN386",
+   "MUN387",
+   "MUN388",
+   "MUN389",
+   "MUN390",
+   "MUN391",
+   "MUN392"
+  ]
+ },
+ {
+  "id": "T1-D36",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Baglung district",
+  "relevant": [
+   "MUN393",
+   "MUN394",
+   "MUN395",
+   "MUN396",
+   "MUN397",
+   "MUN398",
+   "MUN399",
+   "MUN400",
+   "MUN401",
+   "MUN402"
+  ]
+ },
+ {
+  "id": "T2-D36",
+  "group": "T2 locals by district (NE)",
+  "query": "बागलुङ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN393",
+   "MUN394",
+   "MUN395",
+   "MUN396",
+   "MUN397",
+   "MUN398",
+   "MUN399",
+   "MUN400",
+   "MUN401",
+   "MUN402"
+  ]
+ },
+ {
+  "id": "T1-D37",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Gorkha district",
+  "relevant": [
+   "MUN403",
+   "MUN404",
+   "MUN405",
+   "MUN406",
+   "MUN407",
+   "MUN408",
+   "MUN409",
+   "MUN410",
+   "MUN411",
+   "MUN412",
+   "MUN413"
+  ]
+ },
+ {
+  "id": "T2-D37",
+  "group": "T2 locals by district (NE)",
+  "query": "गोरखा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN403",
+   "MUN404",
+   "MUN405",
+   "MUN406",
+   "MUN407",
+   "MUN408",
+   "MUN409",
+   "MUN410",
+   "MUN411",
+   "MUN412",
+   "MUN413"
+  ]
+ },
+ {
+  "id": "T1-D38",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Kaski district",
+  "relevant": [
+   "MUN414",
+   "MUN415",
+   "MUN416",
+   "MUN417",
+   "MUN418"
+  ]
+ },
+ {
+  "id": "T2-D38",
+  "group": "T2 locals by district (NE)",
+  "query": "कास्की जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN414",
+   "MUN415",
+   "MUN416",
+   "MUN417",
+   "MUN418"
+  ]
+ },
+ {
+  "id": "T1-D39",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Lamjung district",
+  "relevant": [
+   "MUN419",
+   "MUN420",
+   "MUN421",
+   "MUN422",
+   "MUN423",
+   "MUN424",
+   "MUN425",
+   "MUN426"
+  ]
+ },
+ {
+  "id": "T2-D39",
+  "group": "T2 locals by district (NE)",
+  "query": "लमजुङ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN419",
+   "MUN420",
+   "MUN421",
+   "MUN422",
+   "MUN423",
+   "MUN424",
+   "MUN425",
+   "MUN426"
+  ]
+ },
+ {
+  "id": "T1-D40",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Manang district",
+  "relevant": [
+   "MUN427",
+   "MUN428",
+   "MUN429",
+   "MUN430"
+  ]
+ },
+ {
+  "id": "T2-D40",
+  "group": "T2 locals by district (NE)",
+  "query": "मनाङ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN427",
+   "MUN428",
+   "MUN429",
+   "MUN430"
+  ]
+ },
+ {
+  "id": "T1-D41",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Mustang district",
+  "relevant": [
+   "MUN431",
+   "MUN432",
+   "MUN433",
+   "MUN434",
+   "MUN435"
+  ]
+ },
+ {
+  "id": "T2-D41",
+  "group": "T2 locals by district (NE)",
+  "query": "मुस्ताङ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN431",
+   "MUN432",
+   "MUN433",
+   "MUN434",
+   "MUN435"
+  ]
+ },
+ {
+  "id": "T1-D42",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Myagdi district",
+  "relevant": [
+   "MUN436",
+   "MUN437",
+   "MUN438",
+   "MUN439",
+   "MUN440",
+   "MUN441"
+  ]
+ },
+ {
+  "id": "T2-D42",
+  "group": "T2 locals by district (NE)",
+  "query": "म्याग्दी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN436",
+   "MUN437",
+   "MUN438",
+   "MUN439",
+   "MUN440",
+   "MUN441"
+  ]
+ },
+ {
+  "id": "T1-D43",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Nawalpur district",
+  "relevant": [
+   "MUN442",
+   "MUN443",
+   "MUN444",
+   "MUN445",
+   "MUN446",
+   "MUN447",
+   "MUN448",
+   "MUN449"
+  ]
+ },
+ {
+  "id": "T2-D43",
+  "group": "T2 locals by district (NE)",
+  "query": "नवलपुर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN442",
+   "MUN443",
+   "MUN444",
+   "MUN445",
+   "MUN446",
+   "MUN447",
+   "MUN448",
+   "MUN449"
+  ]
+ },
+ {
+  "id": "T1-D44",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Parwat district",
+  "relevant": [
+   "MUN450",
+   "MUN451",
+   "MUN452",
+   "MUN453",
+   "MUN454",
+   "MUN455",
+   "MUN456"
+  ]
+ },
+ {
+  "id": "T2-D44",
+  "group": "T2 locals by district (NE)",
+  "query": "पर्वत जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN450",
+   "MUN451",
+   "MUN452",
+   "MUN453",
+   "MUN454",
+   "MUN455",
+   "MUN456"
+  ]
+ },
+ {
+  "id": "T1-D45",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Syangja district",
+  "relevant": [
+   "MUN457",
+   "MUN458",
+   "MUN459",
+   "MUN460",
+   "MUN461",
+   "MUN462",
+   "MUN463",
+   "MUN464",
+   "MUN465",
+   "MUN466",
+   "MUN467"
+  ]
+ },
+ {
+  "id": "T2-D45",
+  "group": "T2 locals by district (NE)",
+  "query": "स्याङग्जा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN457",
+   "MUN458",
+   "MUN459",
+   "MUN460",
+   "MUN461",
+   "MUN462",
+   "MUN463",
+   "MUN464",
+   "MUN465",
+   "MUN466",
+   "MUN467"
+  ]
+ },
+ {
+  "id": "T1-D46",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Tanahun district",
+  "relevant": [
+   "MUN468",
+   "MUN469",
+   "MUN470",
+   "MUN471",
+   "MUN472",
+   "MUN473",
+   "MUN474",
+   "MUN475",
+   "MUN476",
+   "MUN477"
+  ]
+ },
+ {
+  "id": "T2-D46",
+  "group": "T2 locals by district (NE)",
+  "query": "तनहुँ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN468",
+   "MUN469",
+   "MUN470",
+   "MUN471",
+   "MUN472",
+   "MUN473",
+   "MUN474",
+   "MUN475",
+   "MUN476",
+   "MUN477"
+  ]
+ },
+ {
+  "id": "T1-D47",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Kapilvastu district",
+  "relevant": [
+   "MUN478",
+   "MUN479",
+   "MUN480",
+   "MUN481",
+   "MUN482",
+   "MUN483",
+   "MUN484",
+   "MUN485",
+   "MUN486",
+   "MUN487"
+  ]
+ },
+ {
+  "id": "T2-D47",
+  "group": "T2 locals by district (NE)",
+  "query": "कपिलवस्तु जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN478",
+   "MUN479",
+   "MUN480",
+   "MUN481",
+   "MUN482",
+   "MUN483",
+   "MUN484",
+   "MUN485",
+   "MUN486",
+   "MUN487"
+  ]
+ },
+ {
+  "id": "T1-D48",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Parasi district",
+  "relevant": [
+   "MUN488",
+   "MUN489",
+   "MUN490",
+   "MUN491",
+   "MUN492",
+   "MUN493",
+   "MUN494"
+  ]
+ },
+ {
+  "id": "T2-D48",
+  "group": "T2 locals by district (NE)",
+  "query": "परासी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN488",
+   "MUN489",
+   "MUN490",
+   "MUN491",
+   "MUN492",
+   "MUN493",
+   "MUN494"
+  ]
+ },
+ {
+  "id": "T1-D49",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Rupandehi district",
+  "relevant": [
+   "MUN495",
+   "MUN496",
+   "MUN497",
+   "MUN498",
+   "MUN499",
+   "MUN500",
+   "MUN501",
+   "MUN502",
+   "MUN503",
+   "MUN504",
+   "MUN505",
+   "MUN506",
+   "MUN507",
+   "MUN508",
+   "MUN509",
+   "MUN510"
+  ]
+ },
+ {
+  "id": "T2-D49",
+  "group": "T2 locals by district (NE)",
+  "query": "रुपन्देही जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN495",
+   "MUN496",
+   "MUN497",
+   "MUN498",
+   "MUN499",
+   "MUN500",
+   "MUN501",
+   "MUN502",
+   "MUN503",
+   "MUN504",
+   "MUN505",
+   "MUN506",
+   "MUN507",
+   "MUN508",
+   "MUN509",
+   "MUN510"
+  ]
+ },
+ {
+  "id": "T1-D50",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Arghakhanchi district",
+  "relevant": [
+   "MUN511",
+   "MUN512",
+   "MUN513",
+   "MUN514",
+   "MUN515",
+   "MUN516"
+  ]
+ },
+ {
+  "id": "T2-D50",
+  "group": "T2 locals by district (NE)",
+  "query": "अर्घाखाँची जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN511",
+   "MUN512",
+   "MUN513",
+   "MUN514",
+   "MUN515",
+   "MUN516"
+  ]
+ },
+ {
+  "id": "T1-D51",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Gulmi district",
+  "relevant": [
+   "MUN517",
+   "MUN518",
+   "MUN519",
+   "MUN520",
+   "MUN521",
+   "MUN522",
+   "MUN523",
+   "MUN524",
+   "MUN525",
+   "MUN526",
+   "MUN527",
+   "MUN528"
+  ]
+ },
+ {
+  "id": "T2-D51",
+  "group": "T2 locals by district (NE)",
+  "query": "गुल्मी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN517",
+   "MUN518",
+   "MUN519",
+   "MUN520",
+   "MUN521",
+   "MUN522",
+   "MUN523",
+   "MUN524",
+   "MUN525",
+   "MUN526",
+   "MUN527",
+   "MUN528"
+  ]
+ },
+ {
+  "id": "T1-D52",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Palpa district",
+  "relevant": [
+   "MUN529",
+   "MUN530",
+   "MUN531",
+   "MUN532",
+   "MUN533",
+   "MUN534",
+   "MUN535",
+   "MUN536",
+   "MUN537",
+   "MUN538"
+  ]
+ },
+ {
+  "id": "T2-D52",
+  "group": "T2 locals by district (NE)",
+  "query": "पाल्पा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN529",
+   "MUN530",
+   "MUN531",
+   "MUN532",
+   "MUN533",
+   "MUN534",
+   "MUN535",
+   "MUN536",
+   "MUN537",
+   "MUN538"
+  ]
+ },
+ {
+  "id": "T1-D53",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dang district",
+  "relevant": [
+   "MUN539",
+   "MUN540",
+   "MUN541",
+   "MUN542",
+   "MUN543",
+   "MUN544",
+   "MUN545",
+   "MUN546",
+   "MUN547",
+   "MUN548"
+  ]
+ },
+ {
+  "id": "T2-D53",
+  "group": "T2 locals by district (NE)",
+  "query": "दाङ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN539",
+   "MUN540",
+   "MUN541",
+   "MUN542",
+   "MUN543",
+   "MUN544",
+   "MUN545",
+   "MUN546",
+   "MUN547",
+   "MUN548"
+  ]
+ },
+ {
+  "id": "T1-D54",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Pyuthan district",
+  "relevant": [
+   "MUN549",
+   "MUN550",
+   "MUN551",
+   "MUN552",
+   "MUN553",
+   "MUN554",
+   "MUN555",
+   "MUN556",
+   "MUN557"
+  ]
+ },
+ {
+  "id": "T2-D54",
+  "group": "T2 locals by district (NE)",
+  "query": "प्युठान जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN549",
+   "MUN550",
+   "MUN551",
+   "MUN552",
+   "MUN553",
+   "MUN554",
+   "MUN555",
+   "MUN556",
+   "MUN557"
+  ]
+ },
+ {
+  "id": "T1-D55",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Rolpa district",
+  "relevant": [
+   "MUN558",
+   "MUN559",
+   "MUN560",
+   "MUN561",
+   "MUN562",
+   "MUN563",
+   "MUN564",
+   "MUN565",
+   "MUN566",
+   "MUN567"
+  ]
+ },
+ {
+  "id": "T2-D55",
+  "group": "T2 locals by district (NE)",
+  "query": "रोल्पा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN558",
+   "MUN559",
+   "MUN560",
+   "MUN561",
+   "MUN562",
+   "MUN563",
+   "MUN564",
+   "MUN565",
+   "MUN566",
+   "MUN567"
+  ]
+ },
+ {
+  "id": "T1-D56",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Eastern Rukum district",
+  "relevant": [
+   "MUN568",
+   "MUN569",
+   "MUN570"
+  ]
+ },
+ {
+  "id": "T2-D56",
+  "group": "T2 locals by district (NE)",
+  "query": "पूर्वी रूकुम जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN568",
+   "MUN569",
+   "MUN570"
+  ]
+ },
+ {
+  "id": "T1-D57",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Banke district",
+  "relevant": [
+   "MUN571",
+   "MUN572",
+   "MUN573",
+   "MUN574",
+   "MUN575",
+   "MUN576",
+   "MUN577",
+   "MUN578"
+  ]
+ },
+ {
+  "id": "T2-D57",
+  "group": "T2 locals by district (NE)",
+  "query": "बाँके जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN571",
+   "MUN572",
+   "MUN573",
+   "MUN574",
+   "MUN575",
+   "MUN576",
+   "MUN577",
+   "MUN578"
+  ]
+ },
+ {
+  "id": "T1-D58",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Bardiya district",
+  "relevant": [
+   "MUN579",
+   "MUN580",
+   "MUN581",
+   "MUN582",
+   "MUN583",
+   "MUN584",
+   "MUN585",
+   "MUN586"
+  ]
+ },
+ {
+  "id": "T2-D58",
+  "group": "T2 locals by district (NE)",
+  "query": "बर्दिया जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN579",
+   "MUN580",
+   "MUN581",
+   "MUN582",
+   "MUN583",
+   "MUN584",
+   "MUN585",
+   "MUN586"
+  ]
+ },
+ {
+  "id": "T1-D59",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Western Rukum district",
+  "relevant": [
+   "MUN587",
+   "MUN588",
+   "MUN589",
+   "MUN590",
+   "MUN591",
+   "MUN592"
+  ]
+ },
+ {
+  "id": "T2-D59",
+  "group": "T2 locals by district (NE)",
+  "query": "रुकुम पश्चिम जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN587",
+   "MUN588",
+   "MUN589",
+   "MUN590",
+   "MUN591",
+   "MUN592"
+  ]
+ },
+ {
+  "id": "T1-D60",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Salyan district",
+  "relevant": [
+   "MUN593",
+   "MUN594",
+   "MUN595",
+   "MUN596",
+   "MUN597",
+   "MUN598",
+   "MUN599",
+   "MUN600",
+   "MUN601",
+   "MUN602"
+  ]
+ },
+ {
+  "id": "T2-D60",
+  "group": "T2 locals by district (NE)",
+  "query": "सल्यान जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN593",
+   "MUN594",
+   "MUN595",
+   "MUN596",
+   "MUN597",
+   "MUN598",
+   "MUN599",
+   "MUN600",
+   "MUN601",
+   "MUN602"
+  ]
+ },
+ {
+  "id": "T1-D61",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dolpa district",
+  "relevant": [
+   "MUN603",
+   "MUN604",
+   "MUN605",
+   "MUN606",
+   "MUN607",
+   "MUN608",
+   "MUN609",
+   "MUN610"
+  ]
+ },
+ {
+  "id": "T2-D61",
+  "group": "T2 locals by district (NE)",
+  "query": "डोल्पा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN603",
+   "MUN604",
+   "MUN605",
+   "MUN606",
+   "MUN607",
+   "MUN608",
+   "MUN609",
+   "MUN610"
+  ]
+ },
+ {
+  "id": "T1-D62",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Humla district",
+  "relevant": [
+   "MUN611",
+   "MUN612",
+   "MUN613",
+   "MUN614",
+   "MUN615",
+   "MUN616",
+   "MUN617"
+  ]
+ },
+ {
+  "id": "T2-D62",
+  "group": "T2 locals by district (NE)",
+  "query": "हुम्ला जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN611",
+   "MUN612",
+   "MUN613",
+   "MUN614",
+   "MUN615",
+   "MUN616",
+   "MUN617"
+  ]
+ },
+ {
+  "id": "T1-D63",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Jumla district",
+  "relevant": [
+   "MUN618",
+   "MUN619",
+   "MUN620",
+   "MUN621",
+   "MUN622",
+   "MUN623",
+   "MUN624",
+   "MUN625"
+  ]
+ },
+ {
+  "id": "T2-D63",
+  "group": "T2 locals by district (NE)",
+  "query": "जुम्ला जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN618",
+   "MUN619",
+   "MUN620",
+   "MUN621",
+   "MUN622",
+   "MUN623",
+   "MUN624",
+   "MUN625"
+  ]
+ },
+ {
+  "id": "T1-D64",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Kalikot district",
+  "relevant": [
+   "MUN626",
+   "MUN627",
+   "MUN628",
+   "MUN629",
+   "MUN630",
+   "MUN631",
+   "MUN632",
+   "MUN633",
+   "MUN634"
+  ]
+ },
+ {
+  "id": "T2-D64",
+  "group": "T2 locals by district (NE)",
+  "query": "कालिकोट जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN626",
+   "MUN627",
+   "MUN628",
+   "MUN629",
+   "MUN630",
+   "MUN631",
+   "MUN632",
+   "MUN633",
+   "MUN634"
+  ]
+ },
+ {
+  "id": "T1-D65",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Mugu district",
+  "relevant": [
+   "MUN635",
+   "MUN636",
+   "MUN637",
+   "MUN638"
+  ]
+ },
+ {
+  "id": "T2-D65",
+  "group": "T2 locals by district (NE)",
+  "query": "मुगु जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN635",
+   "MUN636",
+   "MUN637",
+   "MUN638"
+  ]
+ },
+ {
+  "id": "T1-D66",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Surkhet district",
+  "relevant": [
+   "MUN639",
+   "MUN640",
+   "MUN641",
+   "MUN642",
+   "MUN643",
+   "MUN644",
+   "MUN645",
+   "MUN646",
+   "MUN647"
+  ]
+ },
+ {
+  "id": "T2-D66",
+  "group": "T2 locals by district (NE)",
+  "query": "सुर्खेत जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN639",
+   "MUN640",
+   "MUN641",
+   "MUN642",
+   "MUN643",
+   "MUN644",
+   "MUN645",
+   "MUN646",
+   "MUN647"
+  ]
+ },
+ {
+  "id": "T1-D67",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dailekh district",
+  "relevant": [
+   "MUN648",
+   "MUN649",
+   "MUN650",
+   "MUN651",
+   "MUN652",
+   "MUN653",
+   "MUN654",
+   "MUN655",
+   "MUN656",
+   "MUN657",
+   "MUN658"
+  ]
+ },
+ {
+  "id": "T2-D67",
+  "group": "T2 locals by district (NE)",
+  "query": "दैलेख जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN648",
+   "MUN649",
+   "MUN650",
+   "MUN651",
+   "MUN652",
+   "MUN653",
+   "MUN654",
+   "MUN655",
+   "MUN656",
+   "MUN657",
+   "MUN658"
+  ]
+ },
+ {
+  "id": "T1-D68",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Jajarkot district",
+  "relevant": [
+   "MUN659",
+   "MUN660",
+   "MUN661",
+   "MUN662",
+   "MUN663",
+   "MUN664",
+   "MUN665"
+  ]
+ },
+ {
+  "id": "T2-D68",
+  "group": "T2 locals by district (NE)",
+  "query": "जाजरकोट जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN659",
+   "MUN660",
+   "MUN661",
+   "MUN662",
+   "MUN663",
+   "MUN664",
+   "MUN665"
+  ]
+ },
+ {
+  "id": "T1-D69",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Darchula district",
+  "relevant": [
+   "MUN666",
+   "MUN667",
+   "MUN668",
+   "MUN669",
+   "MUN670",
+   "MUN671",
+   "MUN672",
+   "MUN673",
+   "MUN674"
+  ]
+ },
+ {
+  "id": "T2-D69",
+  "group": "T2 locals by district (NE)",
+  "query": "दार्चुला जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN666",
+   "MUN667",
+   "MUN668",
+   "MUN669",
+   "MUN670",
+   "MUN671",
+   "MUN672",
+   "MUN673",
+   "MUN674"
+  ]
+ },
+ {
+  "id": "T1-D70",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Bajhang district",
+  "relevant": [
+   "MUN675",
+   "MUN676",
+   "MUN677",
+   "MUN678",
+   "MUN679",
+   "MUN680",
+   "MUN681",
+   "MUN682",
+   "MUN683",
+   "MUN684",
+   "MUN685",
+   "MUN686"
+  ]
+ },
+ {
+  "id": "T2-D70",
+  "group": "T2 locals by district (NE)",
+  "query": "बझाङ जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN675",
+   "MUN676",
+   "MUN677",
+   "MUN678",
+   "MUN679",
+   "MUN680",
+   "MUN681",
+   "MUN682",
+   "MUN683",
+   "MUN684",
+   "MUN685",
+   "MUN686"
+  ]
+ },
+ {
+  "id": "T1-D71",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Bajura district",
+  "relevant": [
+   "MUN687",
+   "MUN688",
+   "MUN689",
+   "MUN690",
+   "MUN691",
+   "MUN692",
+   "MUN693",
+   "MUN694",
+   "MUN695"
+  ]
+ },
+ {
+  "id": "T2-D71",
+  "group": "T2 locals by district (NE)",
+  "query": "बाजुरा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN687",
+   "MUN688",
+   "MUN689",
+   "MUN690",
+   "MUN691",
+   "MUN692",
+   "MUN693",
+   "MUN694",
+   "MUN695"
+  ]
+ },
+ {
+  "id": "T1-D72",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Baitadi district",
+  "relevant": [
+   "MUN696",
+   "MUN697",
+   "MUN698",
+   "MUN699",
+   "MUN700",
+   "MUN701",
+   "MUN702",
+   "MUN703",
+   "MUN704",
+   "MUN705"
+  ]
+ },
+ {
+  "id": "T2-D72",
+  "group": "T2 locals by district (NE)",
+  "query": "बैतडी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN696",
+   "MUN697",
+   "MUN698",
+   "MUN699",
+   "MUN700",
+   "MUN701",
+   "MUN702",
+   "MUN703",
+   "MUN704",
+   "MUN705"
+  ]
+ },
+ {
+  "id": "T1-D73",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Doti district",
+  "relevant": [
+   "MUN706",
+   "MUN707",
+   "MUN708",
+   "MUN709",
+   "MUN710",
+   "MUN711",
+   "MUN712",
+   "MUN713",
+   "MUN714"
+  ]
+ },
+ {
+  "id": "T2-D73",
+  "group": "T2 locals by district (NE)",
+  "query": "डोटी जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN706",
+   "MUN707",
+   "MUN708",
+   "MUN709",
+   "MUN710",
+   "MUN711",
+   "MUN712",
+   "MUN713",
+   "MUN714"
+  ]
+ },
+ {
+  "id": "T1-D74",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Acham district",
+  "relevant": [
+   "MUN715",
+   "MUN716",
+   "MUN717",
+   "MUN718",
+   "MUN719",
+   "MUN720",
+   "MUN721",
+   "MUN722",
+   "MUN723",
+   "MUN724"
+  ]
+ },
+ {
+  "id": "T2-D74",
+  "group": "T2 locals by district (NE)",
+  "query": "अछाम जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN715",
+   "MUN716",
+   "MUN717",
+   "MUN718",
+   "MUN719",
+   "MUN720",
+   "MUN721",
+   "MUN722",
+   "MUN723",
+   "MUN724"
+  ]
+ },
+ {
+  "id": "T1-D75",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Dadeldhura district",
+  "relevant": [
+   "MUN725",
+   "MUN726",
+   "MUN727",
+   "MUN728",
+   "MUN729",
+   "MUN730",
+   "MUN731"
+  ]
+ },
+ {
+  "id": "T2-D75",
+  "group": "T2 locals by district (NE)",
+  "query": "डडेलधुरा जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN725",
+   "MUN726",
+   "MUN727",
+   "MUN728",
+   "MUN729",
+   "MUN730",
+   "MUN731"
+  ]
+ },
+ {
+  "id": "T1-D76",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Kanchanpur district",
+  "relevant": [
+   "MUN732",
+   "MUN733",
+   "MUN734",
+   "MUN735",
+   "MUN736",
+   "MUN737",
+   "MUN738",
+   "MUN739",
+   "MUN740"
+  ]
+ },
+ {
+  "id": "T2-D76",
+  "group": "T2 locals by district (NE)",
+  "query": "कञ्चनपुर जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN732",
+   "MUN733",
+   "MUN734",
+   "MUN735",
+   "MUN736",
+   "MUN737",
+   "MUN738",
+   "MUN739",
+   "MUN740"
+  ]
+ },
+ {
+  "id": "T1-D77",
+  "group": "T1 locals by district (EN)",
+  "query": "local governments in Kailali district",
+  "relevant": [
+   "MUN741",
+   "MUN742",
+   "MUN743",
+   "MUN744",
+   "MUN745",
+   "MUN746",
+   "MUN747",
+   "MUN748",
+   "MUN749",
+   "MUN750",
+   "MUN751",
+   "MUN752",
+   "MUN753"
+  ]
+ },
+ {
+  "id": "T2-D77",
+  "group": "T2 locals by district (NE)",
+  "query": "कैलाली जिल्लाका स्थानीय तह",
+  "relevant": [
+   "MUN741",
+   "MUN742",
+   "MUN743",
+   "MUN744",
+   "MUN745",
+   "MUN746",
+   "MUN747",
+   "MUN748",
+   "MUN749",
+   "MUN750",
+   "MUN751",
+   "MUN752",
+   "MUN753"
+  ]
+ },
+ {
+  "id": "T3-P1",
+  "group": "T3 districts by province",
+  "query": "districts of Koshi province",
+  "relevant": [
+   "D01",
+   "D02",
+   "D03",
+   "D04",
+   "D05",
+   "D06",
+   "D07",
+   "D08",
+   "D09",
+   "D10",
+   "D11",
+   "D12",
+   "D13",
+   "D14"
+  ]
+ },
+ {
+  "id": "T3-P2",
+  "group": "T3 districts by province",
+  "query": "districts of Madhesh province",
+  "relevant": [
+   "D15",
+   "D16",
+   "D17",
+   "D18",
+   "D19",
+   "D20",
+   "D21",
+   "D22"
+  ]
+ },
+ {
+  "id": "T3-P3",
+  "group": "T3 districts by province",
+  "query": "districts of Bagmati province",
+  "relevant": [
+   "D23",
+   "D24",
+   "D25",
+   "D26",
+   "D27",
+   "D28",
+   "D29",
+   "D30",
+   "D31",
+   "D32",
+   "D33",
+   "D34",
+   "D35"
+  ]
+ },
+ {
+  "id": "T3-P4",
+  "group": "T3 districts by province",
+  "query": "districts of Gandaki province",
+  "relevant": [
+   "D36",
+   "D37",
+   "D38",
+   "D39",
+   "D40",
+   "D41",
+   "D42",
+   "D43",
+   "D44",
+   "D45",
+   "D46"
+  ]
+ },
+ {
+  "id": "T3-P5",
+  "group": "T3 districts by province",
+  "query": "districts of Lumbini province",
+  "relevant": [
+   "D47",
+   "D48",
+   "D49",
+   "D50",
+   "D51",
+   "D52",
+   "D53",
+   "D54",
+   "D55",
+   "D56",
+   "D57",
+   "D58"
+  ]
+ },
+ {
+  "id": "T3-P6",
+  "group": "T3 districts by province",
+  "query": "districts of Karnali province",
+  "relevant": [
+   "D59",
+   "D60",
+   "D61",
+   "D62",
+   "D63",
+   "D64",
+   "D65",
+   "D66",
+   "D67",
+   "D68"
+  ]
+ },
+ {
+  "id": "T3-P7",
+  "group": "T3 districts by province",
+  "query": "districts of Sudurpashchim province",
+  "relevant": [
+   "D69",
+   "D70",
+   "D71",
+   "D72",
+   "D73",
+   "D74",
+   "D75",
+   "D76",
+   "D77"
+  ]
+ },
+ {
+  "id": "T4-MUN122",
+  "group": "T4 local government by name",
+  "query": "Maiwa Khola",
+  "relevant": [
+   "MUN122"
+  ]
+ },
+ {
+  "id": "T5-MUN122",
+  "group": "T5 name with a typo",
+  "query": "MaiwaKhola",
+  "relevant": [
+   "MUN122"
+  ]
+ },
+ {
+  "id": "T4-MUN328",
+  "group": "T4 local government by name",
+  "query": "Bhumlu",
+  "relevant": [
+   "MUN328"
+  ]
+ },
+ {
+  "id": "T5-MUN328",
+  "group": "T5 name with a typo",
+  "query": "Bhulu",
+  "relevant": [
+   "MUN328"
+  ]
+ },
+ {
+  "id": "T4-MUN515",
+  "group": "T4 local government by name",
+  "query": "Panini",
+  "relevant": [
+   "MUN515"
+  ]
+ },
+ {
+  "id": "T5-MUN515",
+  "group": "T5 name with a typo",
+  "query": "Pnini",
+  "relevant": [
+   "MUN515"
+  ]
+ },
+ {
+  "id": "T4-MUN525",
+  "group": "T4 local government by name",
+  "query": "Kaligandaki",
+  "relevant": [
+   "MUN464",
+   "MUN525"
+  ]
+ },
+ {
+  "id": "T5-MUN525",
+  "group": "T5 name with a typo",
+  "query": "Kligandaki",
+  "relevant": [
+   "MUN464",
+   "MUN525"
+  ]
+ },
+ {
+  "id": "T4-MUN663",
+  "group": "T4 local government by name",
+  "query": "Kuse",
+  "relevant": [
+   "MUN663"
+  ]
+ },
+ {
+  "id": "T5-MUN663",
+  "group": "T5 name with a typo",
+  "query": "Kse",
+  "relevant": [
+   "MUN663"
+  ]
+ },
+ {
+  "id": "T4-MUN106",
+  "group": "T4 local government by name",
+  "query": "Ramdhuni",
+  "relevant": [
+   "MUN106"
+  ]
+ },
+ {
+  "id": "T5-MUN106",
+  "group": "T5 name with a typo",
+  "query": "Ramdhui",
+  "relevant": [
+   "MUN106"
+  ]
+ },
+ {
+  "id": "T4-MUN229",
+  "group": "T4 local government by name",
+  "query": "Mithila",
+  "relevant": [
+   "MUN229"
+  ]
+ },
+ {
+  "id": "T5-MUN229",
+  "group": "T5 name with a typo",
+  "query": "Mithia",
+  "relevant": [
+   "MUN229"
+  ]
+ },
+ {
+  "id": "T4-MUN616",
+  "group": "T4 local government by name",
+  "query": "Chankheli",
+  "relevant": [
+   "MUN616"
+  ]
+ },
+ {
+  "id": "T5-MUN616",
+  "group": "T5 name with a typo",
+  "query": "Chanheli",
+  "relevant": [
+   "MUN616"
+  ]
+ },
+ {
+  "id": "T4-MUN637",
+  "group": "T4 local government by name",
+  "query": "Mugum Karmarong",
+  "relevant": [
+   "MUN637"
+  ]
+ },
+ {
+  "id": "T5-MUN637",
+  "group": "T5 name with a typo",
+  "query": "Mugum Karmarog",
+  "relevant": [
+   "MUN637"
+  ]
+ },
+ {
+  "id": "T4-MUN570",
+  "group": "T4 local government by name",
+  "query": "Sisne",
+  "relevant": [
+   "MUN570"
+  ]
+ },
+ {
+  "id": "T5-MUN570",
+  "group": "T5 name with a typo",
+  "query": "Sise",
+  "relevant": [
+   "MUN570"
+  ]
+ },
+ {
+  "id": "T4-MUN431",
+  "group": "T4 local government by name",
+  "query": "Gharpajhong",
+  "relevant": [
+   "MUN431"
+  ]
+ },
+ {
+  "id": "T5-MUN431",
+  "group": "T5 name with a typo",
+  "query": "Gharpajhng",
+  "relevant": [
+   "MUN431"
+  ]
+ },
+ {
+  "id": "T4-MUN587",
+  "group": "T4 local government by name",
+  "query": "Aathabiskot",
+  "relevant": [
+   "MUN587"
+  ]
+ },
+ {
+  "id": "T5-MUN587",
+  "group": "T5 name with a typo",
+  "query": "Aathabskot",
+  "relevant": [
+   "MUN587"
+  ]
+ },
+ {
+  "id": "T4-MUN561",
+  "group": "T4 local government by name",
+  "query": "Sunil Smiriti",
+  "relevant": [
+   "MUN561"
+  ]
+ },
+ {
+  "id": "T5-MUN561",
+  "group": "T5 name with a typo",
+  "query": "Suni Smiriti",
+  "relevant": [
+   "MUN561"
+  ]
+ },
+ {
+  "id": "T4-MUN503",
+  "group": "T4 local government by name",
+  "query": "Kotahimai",
+  "relevant": [
+   "MUN503"
+  ]
+ },
+ {
+  "id": "T5-MUN503",
+  "group": "T5 name with a typo",
+  "query": "Kothimai",
+  "relevant": [
+   "MUN503"
+  ]
+ },
+ {
+  "id": "T4-MUN601",
+  "group": "T4 local government by name",
+  "query": "Shaarda",
+  "relevant": [
+   "MUN601"
+  ]
+ },
+ {
+  "id": "T5-MUN601",
+  "group": "T5 name with a typo",
+  "query": "Shaada",
+  "relevant": [
+   "MUN601"
+  ]
+ },
+ {
+  "id": "T4-MUN452",
+  "group": "T4 local government by name",
+  "query": "Jaljala",
+  "relevant": [
+   "MUN452"
+  ]
+ },
+ {
+  "id": "T5-MUN452",
+  "group": "T5 name with a typo",
+  "query": "Jaljla",
+  "relevant": [
+   "MUN452"
+  ]
+ },
+ {
+  "id": "T4-MUN246",
+  "group": "T4 local government by name",
+  "query": "Shambhunath",
+  "relevant": [
+   "MUN246"
+  ]
+ },
+ {
+  "id": "T5-MUN246",
+  "group": "T5 name with a typo",
+  "query": "Shambhunah",
+  "relevant": [
+   "MUN246"
+  ]
+ },
+ {
+  "id": "T4-MUN003",
+  "group": "T4 local government by name",
+  "query": "Hatuwagadhi",
+  "relevant": [
+   "MUN003"
+  ]
+ },
+ {
+  "id": "T5-MUN003",
+  "group": "T5 name with a typo",
+  "query": "Hatuwagahi",
+  "relevant": [
+   "MUN003"
+  ]
+ },
+ {
+  "id": "T4-MUN629",
+  "group": "T4 local government by name",
+  "query": "Narharinath",
+  "relevant": [
+   "MUN629"
+  ]
+ },
+ {
+  "id": "T5-MUN629",
+  "group": "T5 name with a typo",
+  "query": "Narhariath",
+  "relevant": [
+   "MUN629"
+  ]
+ },
+ {
+  "id": "T4-MUN083",
+  "group": "T4 local government by name",
+  "query": "Kummayak",
+  "relevant": [
+   "MUN083"
+  ]
+ },
+ {
+  "id": "T5-MUN083",
+  "group": "T5 name with a typo",
+  "query": "Kummaak",
+  "relevant": [
+   "MUN083"
+  ]
+ },
+ {
+  "id": "T4-MUN114",
+  "group": "T4 local government by name",
+  "query": "Barju",
+  "relevant": [
+   "MUN114"
+  ]
+ },
+ {
+  "id": "T5-MUN114",
+  "group": "T5 name with a typo",
+  "query": "Baru",
+  "relevant": [
+   "MUN114"
+  ]
+ },
+ {
+  "id": "T4-MUN295",
+  "group": "T4 local government by name",
+  "query": "Rubi Valley",
+  "relevant": [
+   "MUN295"
+  ]
+ },
+ {
+  "id": "T5-MUN295",
+  "group": "T5 name with a typo",
+  "query": "Rbi Valley",
+  "relevant": [
+   "MUN295"
+  ]
+ },
+ {
+  "id": "T4-MUN101",
+  "group": "T4 local government by name",
+  "query": "Khumbu PasangLhamu",
+  "relevant": [
+   "MUN101"
+  ]
+ },
+ {
+  "id": "T5-MUN101",
+  "group": "T5 name with a typo",
+  "query": "Khumbu PasngLhamu",
+  "relevant": [
+   "MUN101"
+  ]
+ },
+ {
+  "id": "T4-MUN461",
+  "group": "T4 local government by name",
+  "query": "Waling",
+  "relevant": [
+   "MUN461"
+  ]
+ },
+ {
+  "id": "T5-MUN461",
+  "group": "T5 name with a typo",
+  "query": "Walng",
+  "relevant": [
+   "MUN461"
+  ]
+ },
+ {
+  "id": "T4-MUN012",
+  "group": "T4 local government by name",
+  "query": "Mahalaxmi",
+  "relevant": [
+   "MUN012",
+   "MUN332"
+  ]
+ },
+ {
+  "id": "T5-MUN012",
+  "group": "T5 name with a typo",
+  "query": "Mahaaxmi",
+  "relevant": [
+   "MUN012",
+   "MUN332"
+  ]
+ },
+ {
+  "id": "T4-MUN702",
+  "group": "T4 local government by name",
+  "query": "Sigas",
+  "relevant": [
+   "MUN702"
+  ]
+ },
+ {
+  "id": "T5-MUN702",
+  "group": "T5 name with a typo",
+  "query": "Sgas",
+  "relevant": [
+   "MUN702"
+  ]
+ },
+ {
+  "id": "T4-MUN740",
+  "group": "T4 local government by name",
+  "query": "Beldandi",
+  "relevant": [
+   "MUN740"
+  ]
+ },
+ {
+  "id": "T5-MUN740",
+  "group": "T5 name with a typo",
+  "query": "Beldndi",
+  "relevant": [
+   "MUN740"
+  ]
+ },
+ {
+  "id": "T4-MUN696",
+  "group": "T4 local government by name",
+  "query": "Dashrathchanda",
+  "relevant": [
+   "MUN696"
+  ]
+ },
+ {
+  "id": "T5-MUN696",
+  "group": "T5 name with a typo",
+  "query": "Dashrathchana",
+  "relevant": [
+   "MUN696"
+  ]
+ },
+ {
+  "id": "T4-MUN322",
+  "group": "T4 local government by name",
+  "query": "Banepa",
+  "relevant": [
+   "MUN322"
+  ]
+ },
+ {
+  "id": "T5-MUN322",
+  "group": "T5 name with a typo",
+  "query": "Banpa",
+  "relevant": [
+   "MUN322"
+  ]
+ },
+ {
+  "id": "T4-MUN216",
+  "group": "T4 local government by name",
+  "query": "Bishnupur",
+  "relevant": [
+   "MUN216",
+   "MUN253"
+  ]
+ },
+ {
+  "id": "T5-MUN216",
+  "group": "T5 name with a typo",
+  "query": "Bishupur",
+  "relevant": [
+   "MUN216",
+   "MUN253"
+  ]
+ },
+ {
+  "id": "T4-MUN407",
+  "group": "T4 local government by name",
+  "query": "Ajirkot",
+  "relevant": [
+   "MUN407"
+  ]
+ },
+ {
+  "id": "T5-MUN407",
+  "group": "T5 name with a typo",
+  "query": "Ajrkot",
+  "relevant": [
+   "MUN407"
+  ]
+ },
+ {
+  "id": "T4-MUN258",
+  "group": "T4 local government by name",
+  "query": "Tirhut",
+  "relevant": [
+   "MUN258"
+  ]
+ },
+ {
+  "id": "T5-MUN258",
+  "group": "T5 name with a typo",
+  "query": "Tirht",
+  "relevant": [
+   "MUN258"
+  ]
+ },
+ {
+  "id": "T4-MUN357",
+  "group": "T4 local government by name",
+  "query": "Kispang",
+  "relevant": [
+   "MUN357"
+  ]
+ },
+ {
+  "id": "T5-MUN357",
+  "group": "T5 name with a typo",
+  "query": "Kispng",
+  "relevant": [
+   "MUN357"
+  ]
+ },
+ {
+  "id": "T4-MUN366",
+  "group": "T4 local government by name",
+  "query": "Sunapati",
+  "relevant": [
+   "MUN366"
+  ]
+ },
+ {
+  "id": "T5-MUN366",
+  "group": "T5 name with a typo",
+  "query": "Snapati",
+  "relevant": [
+   "MUN366"
+  ]
+ },
+ {
+  "id": "T4-MUN386",
+  "group": "T4 local government by name",
+  "query": "Indrawati",
+  "relevant": [
+   "MUN386"
+  ]
+ },
+ {
+  "id": "T5-MUN386",
+  "group": "T5 name with a typo",
+  "query": "Indrawti",
+  "relevant": [
+   "MUN386"
+  ]
+ },
+ {
+  "id": "T4-MUN526",
+  "group": "T4 local government by name",
+  "query": "Isma",
+  "relevant": [
+   "MUN526"
+  ]
+ },
+ {
+  "id": "T5-MUN526",
+  "group": "T5 name with a typo",
+  "query": "Isa",
+  "relevant": [
+   "MUN526"
+  ]
+ },
+ {
+  "id": "T4-MUN654",
+  "group": "T4 local government by name",
+  "query": "Bhagawatimai",
+  "relevant": [
+   "MUN654"
+  ]
+ },
+ {
+  "id": "T5-MUN654",
+  "group": "T5 name with a typo",
+  "query": "Bhagawatmai",
+  "relevant": [
+   "MUN654"
+  ]
+ },
+ {
+  "id": "T4-MUN079",
+  "group": "T4 local government by name",
+  "query": "Phalgunanda",
+  "relevant": [
+   "MUN079"
+  ]
+ },
+ {
+  "id": "T5-MUN079",
+  "group": "T5 name with a typo",
+  "query": "Phalguanda",
+  "relevant": [
+   "MUN079"
+  ]
+ },
+ {
+  "id": "T4-MUN349",
+  "group": "T4 local government by name",
+  "query": "Kakani",
+  "relevant": [
+   "MUN349"
+  ]
+ },
+ {
+  "id": "T5-MUN349",
+  "group": "T5 name with a typo",
+  "query": "Kkani",
+  "relevant": [
+   "MUN349"
+  ]
+ },
+ {
+  "id": "T4-MUN092",
+  "group": "T4 local government by name",
+  "query": "Sabhapokhari",
+  "relevant": [
+   "MUN092"
+  ]
+ },
+ {
+  "id": "T5-MUN092",
+  "group": "T5 name with a typo",
+  "query": "Sabhpokhari",
+  "relevant": [
+   "MUN092"
+  ]
+ },
+ {
+  "id": "T4-MUN571",
+  "group": "T4 local government by name",
+  "query": "Nepalgunj",
+  "relevant": [
+   "MUN571"
+  ]
+ },
+ {
+  "id": "T5-MUN571",
+  "group": "T5 name with a typo",
+  "query": "Nepalgnj",
+  "relevant": [
+   "MUN571"
+  ]
+ },
+ {
+  "id": "T4-MUN551",
+  "group": "T4 local government by name",
+  "query": "Mandavi",
+  "relevant": [
+   "MUN551"
+  ]
+ },
+ {
+  "id": "T5-MUN551",
+  "group": "T5 name with a typo",
+  "query": "Mandvi",
+  "relevant": [
+   "MUN551"
+  ]
+ },
+ {
+  "id": "T4-MUN300",
+  "group": "T4 local government by name",
+  "query": "Kalinchok",
+  "relevant": [
+   "MUN300"
+  ]
+ },
+ {
+  "id": "T5-MUN300",
+  "group": "T5 name with a typo",
+  "query": "Kainchok",
+  "relevant": [
+   "MUN300"
+  ]
+ },
+ {
+  "id": "T4-MUN732",
+  "group": "T4 local government by name",
+  "query": "Bhimdatta",
+  "relevant": [
+   "MUN732"
+  ]
+ },
+ {
+  "id": "T5-MUN732",
+  "group": "T5 name with a typo",
+  "query": "Bhimatta",
+  "relevant": [
+   "MUN732"
+  ]
+ },
+ {
+  "id": "T4-MUN469",
+  "group": "T4 local government by name",
+  "query": "Bhimad",
+  "relevant": [
+   "MUN469"
+  ]
+ },
+ {
+  "id": "T5-MUN469",
+  "group": "T5 name with a typo",
+  "query": "Bimad",
+  "relevant": [
+   "MUN469"
+  ]
+ },
+ {
+  "id": "T4-MUN145",
+  "group": "T4 local government by name",
+  "query": "Jagarnathpur",
+  "relevant": [
+   "MUN145"
+  ]
+ },
+ {
+  "id": "T5-MUN145",
+  "group": "T5 name with a typo",
+  "query": "Jaarnathpur",
+  "relevant": [
+   "MUN145"
+  ]
+ },
+ {
+  "id": "T4-MUN661",
+  "group": "T4 local government by name",
+  "query": "Nalgad",
+  "relevant": [
+   "MUN661"
+  ]
+ },
+ {
+  "id": "T5-MUN661",
+  "group": "T5 name with a typo",
+  "query": "Nlgad",
+  "relevant": [
+   "MUN661"
+  ]
+ },
+ {
+  "id": "T4-MUN592",
+  "group": "T4 local government by name",
+  "query": "Banphikot",
+  "relevant": [
+   "MUN592"
+  ]
+ },
+ {
+  "id": "T5-MUN592",
+  "group": "T5 name with a typo",
+  "query": "Banpikot",
+  "relevant": [
+   "MUN592"
+  ]
+ },
+ {
+  "id": "T4-MUN317",
+  "group": "T4 local government by name",
+  "query": "Shankharapur",
+  "relevant": [
+   "MUN317"
+  ]
+ },
+ {
+  "id": "T5-MUN317",
+  "group": "T5 name with a typo",
+  "query": "Shankharapr",
+  "relevant": [
+   "MUN317"
+  ]
+ },
+ {
+  "id": "T4-MUN026",
+  "group": "T4 local government by name",
+  "query": "Sandakpur",
+  "relevant": [
+   "MUN026"
+  ]
+ },
+ {
+  "id": "T5-MUN026",
+  "group": "T5 name with a typo",
+  "query": "Sandapur",
+  "relevant": [
+   "MUN026"
+  ]
+ },
+ {
+  "id": "T4-MUN378",
+  "group": "T4 local government by name",
+  "query": "Golanjor",
+  "relevant": [
+   "MUN378"
+  ]
+ },
+ {
+  "id": "T5-MUN378",
+  "group": "T5 name with a typo",
+  "query": "Glanjor",
+  "relevant": [
+   "MUN378"
+  ]
+ },
+ {
+  "id": "T4-MUN373",
+  "group": "T4 local government by name",
+  "query": "Dudhauli",
+  "relevant": [
+   "MUN373"
+  ]
+ },
+ {
+  "id": "T5-MUN373",
+  "group": "T5 name with a typo",
+  "query": "Dudhali",
+  "relevant": [
+   "MUN373"
+  ]
+ },
+ {
+  "id": "T4-MUN473",
+  "group": "T4 local government by name",
+  "query": "Devghat",
+  "relevant": [
+   "MUN473"
+  ]
+ },
+ {
+  "id": "T5-MUN473",
+  "group": "T5 name with a typo",
+  "query": "Deghat",
+  "relevant": [
+   "MUN473"
+  ]
+ },
+ {
+  "id": "T4-MUN433",
+  "group": "T4 local government by name",
+  "query": "Barhagaun Muktichhetra",
+  "relevant": [
+   "MUN433"
+  ]
+ },
+ {
+  "id": "T5-MUN433",
+  "group": "T5 name with a typo",
+  "query": "Barhagau Muktichhetra",
+  "relevant": [
+   "MUN433"
+  ]
+ },
+ {
+  "id": "T4-MUN093",
+  "group": "T4 local government by name",
+  "query": "Chichila",
+  "relevant": [
+   "MUN093"
+  ]
+ },
+ {
+  "id": "T5-MUN093",
+  "group": "T5 name with a typo",
+  "query": "Cichila",
+  "relevant": [
+   "MUN093"
+  ]
+ },
+ {
+  "id": "T4-MUN409",
+  "group": "T4 local government by name",
+  "query": "Dharche",
+  "relevant": [
+   "MUN409"
+  ]
+ },
+ {
+  "id": "T5-MUN409",
+  "group": "T5 name with a typo",
+  "query": "Dharce",
+  "relevant": [
+   "MUN409"
+  ]
+ },
+ {
+  "id": "T4-MUN600",
+  "group": "T4 local government by name",
+  "query": "Bagchaur",
+  "relevant": [
+   "MUN600"
+  ]
+ },
+ {
+  "id": "T5-MUN600",
+  "group": "T5 name with a typo",
+  "query": "Bgchaur",
+  "relevant": [
+   "MUN600"
+  ]
+ },
+ {
+  "id": "T4-MUN568",
+  "group": "T4 local government by name",
+  "query": "Putha Uttarganga",
+  "relevant": [
+   "MUN568"
+  ]
+ },
+ {
+  "id": "T5-MUN568",
+  "group": "T5 name with a typo",
+  "query": "Putha Uttargaga",
+  "relevant": [
+   "MUN568"
+  ]
+ },
+ {
+  "id": "T4-MUN511",
+  "group": "T4 local government by name",
+  "query": "Sandhikharka",
+  "relevant": [
+   "MUN511"
+  ]
+ },
+ {
+  "id": "T5-MUN511",
+  "group": "T5 name with a typo",
+  "query": "Sandhikhaka",
+  "relevant": [
+   "MUN511"
+  ]
+ },
+ {
+  "id": "T4-MUN120",
+  "group": "T4 local government by name",
+  "query": "Sidingwa",
+  "relevant": [
+   "MUN120"
+  ]
+ },
+ {
+  "id": "T5-MUN120",
+  "group": "T5 name with a typo",
+  "query": "Sidngwa",
+  "relevant": [
+   "MUN120"
+  ]
+ },
+ {
+  "id": "T4-MUN436",
+  "group": "T4 local government by name",
+  "query": "Beni",
+  "relevant": [
+   "MUN436"
+  ]
+ },
+ {
+  "id": "T5-MUN436",
+  "group": "T5 name with a typo",
+  "query": "Bei",
+  "relevant": [
+   "MUN436"
+  ]
+ },
+ {
+  "id": "T4-MUN519",
+  "group": "T4 local government by name",
+  "query": "Rurukshetra",
+  "relevant": [
+   "MUN519"
+  ]
+ },
+ {
+  "id": "T5-MUN519",
+  "group": "T5 name with a typo",
+  "query": "Rurkshetra",
+  "relevant": [
+   "MUN519"
+  ]
+ },
+ {
+  "id": "T4-MUN615",
+  "group": "T4 local government by name",
+  "query": "Tanjakot",
+  "relevant": [
+   "MUN615"
+  ]
+ },
+ {
+  "id": "T5-MUN615",
+  "group": "T5 name with a typo",
+  "query": "Tnjakot",
+  "relevant": [
+   "MUN615"
+  ]
+ },
+ {
+  "id": "T4-MUN727",
+  "group": "T4 local government by name",
+  "query": "Ganyapadhura",
+  "relevant": [
+   "MUN727"
+  ]
+ },
+ {
+  "id": "T5-MUN727",
+  "group": "T5 name with a typo",
+  "query": "Ganyapdhura",
+  "relevant": [
+   "MUN727"
+  ]
+ },
+ {
+  "id": "T4-MUN408",
+  "group": "T4 local government by name",
+  "query": "Chumnubri",
+  "relevant": [
+   "MUN408"
+  ]
+ },
+ {
+  "id": "T5-MUN408",
+  "group": "T5 name with a typo",
+  "query": "Chumnuri",
+  "relevant": [
+   "MUN408"
+  ]
+ },
+ {
+  "id": "T4-MUN538",
+  "group": "T4 local government by name",
+  "query": "Tinahu",
+  "relevant": [
+   "MUN538"
+  ]
+ },
+ {
+  "id": "T5-MUN538",
+  "group": "T5 name with a typo",
+  "query": "Tinau",
+  "relevant": [
+   "MUN538"
+  ]
+ },
+ {
+  "id": "T4-MUN265",
+  "group": "T4 local government by name",
+  "query": "Loharpatti",
+  "relevant": [
+   "MUN265"
+  ]
+ },
+ {
+  "id": "T5-MUN265",
+  "group": "T5 name with a typo",
+  "query": "Lohrpatti",
+  "relevant": [
+   "MUN265"
+  ]
+ },
+ {
+  "id": "T4-MUN743",
+  "group": "T4 local government by name",
+  "query": "Joshipur",
+  "relevant": [
+   "MUN743"
+  ]
+ },
+ {
+  "id": "T5-MUN743",
+  "group": "T5 name with a typo",
+  "query": "Joshiur",
+  "relevant": [
+   "MUN743"
+  ]
+ },
+ {
+  "id": "T4-MUN578",
+  "group": "T4 local government by name",
+  "query": "Baijanath",
+  "relevant": [
+   "MUN578"
+  ]
+ },
+ {
+  "id": "T5-MUN578",
+  "group": "T5 name with a typo",
+  "query": "Bajanath",
+  "relevant": [
+   "MUN578"
+  ]
+ },
+ {
+  "id": "T4-MUN491",
+  "group": "T4 local government by name",
+  "query": "Susta",
+  "relevant": [
+   "MUN491"
+  ]
+ },
+ {
+  "id": "T5-MUN491",
+  "group": "T5 name with a typo",
+  "query": "Suta",
+  "relevant": [
+   "MUN491"
+  ]
+ },
+ {
+  "id": "T4-MUN718",
+  "group": "T4 local government by name",
+  "query": "Mellekh",
+  "relevant": [
+   "MUN718"
+  ]
+ },
+ {
+  "id": "T5-MUN718",
+  "group": "T5 name with a typo",
+  "query": "Melleh",
+  "relevant": [
+   "MUN718"
+  ]
+ },
+ {
+  "id": "T4-MUN531",
+  "group": "T4 local government by name",
+  "query": "Rainadevi Chhahara",
+  "relevant": [
+   "MUN531"
+  ]
+ },
+ {
+  "id": "T5-MUN531",
+  "group": "T5 name with a typo",
+  "query": "Rainaevi Chhahara",
+  "relevant": [
+   "MUN531"
+  ]
+ },
+ {
+  "id": "T4-MUN704",
+  "group": "T4 local government by name",
+  "query": "Surnaya",
+  "relevant": [
+   "MUN704"
+  ]
+ },
+ {
+  "id": "T5-MUN704",
+  "group": "T5 name with a typo",
+  "query": "Surnaa",
+  "relevant": [
+   "MUN704"
+  ]
+ },
+ {
+  "id": "T4-MUN590",
+  "group": "T4 local government by name",
+  "query": "SaniBheri",
+  "relevant": [
+   "MUN590"
+  ]
+ },
+ {
+  "id": "T5-MUN590",
+  "group": "T5 name with a typo",
+  "query": "SaniBhri",
+  "relevant": [
+   "MUN590"
+  ]
+ },
+ {
+  "id": "T4-MUN230",
+  "group": "T4 local government by name",
+  "query": "Sahidnagar",
+  "relevant": [
+   "MUN230"
+  ]
+ },
+ {
+  "id": "T5-MUN230",
+  "group": "T5 name with a typo",
+  "query": "Sahidagar",
+  "relevant": [
+   "MUN230"
+  ]
+ },
+ {
+  "id": "T4-MUN133",
+  "group": "T4 local government by name",
+  "query": "Belaka",
+  "relevant": [
+   "MUN133"
+  ]
+ },
+ {
+  "id": "T5-MUN133",
+  "group": "T5 name with a typo",
+  "query": "Blaka",
+  "relevant": [
+   "MUN133"
+  ]
+ },
+ {
+  "id": "T4-MUN051",
+  "group": "T4 local government by name",
+  "query": "Sakela",
+  "relevant": [
+   "MUN051"
+  ]
+ },
+ {
+  "id": "T5-MUN051",
+  "group": "T5 name with a typo",
+  "query": "Sakea",
+  "relevant": [
+   "MUN051"
+  ]
+ },
+ {
+  "id": "T4-MUN536",
+  "group": "T4 local government by name",
+  "query": "Nisdi",
+  "relevant": [
+   "MUN536"
+  ]
+ },
+ {
+  "id": "T5-MUN536",
+  "group": "T5 name with a typo",
+  "query": "Nisi",
+  "relevant": [
+   "MUN536"
+  ]
+ },
+ {
+  "id": "T4-MUN748",
+  "group": "T4 local government by name",
+  "query": "Ghodaghodi",
+  "relevant": [
+   "MUN748"
+  ]
+ },
+ {
+  "id": "T5-MUN748",
+  "group": "T5 name with a typo",
+  "query": "Ghoaghodi",
+  "relevant": [
+   "MUN748"
+  ]
+ },
+ {
+  "id": "T4-MUN638",
+  "group": "T4 local government by name",
+  "query": "Chhayanath Rara",
+  "relevant": [
+   "MUN638"
+  ]
+ },
+ {
+  "id": "T5-MUN638",
+  "group": "T5 name with a typo",
+  "query": "Chhyanath Rara",
+  "relevant": [
+   "MUN638"
+  ]
+ },
+ {
+  "id": "T4-MUN440",
+  "group": "T4 local government by name",
+  "query": "Malika",
+  "relevant": [
+   "MUN440",
+   "MUN527"
+  ]
+ },
+ {
+  "id": "T5-MUN440",
+  "group": "T5 name with a typo",
+  "query": "Malka",
+  "relevant": [
+   "MUN440",
+   "MUN527"
+  ]
+ },
+ {
+  "id": "T4-MUN482",
+  "group": "T4 local government by name",
+  "query": "Krishnanagar",
+  "relevant": [
+   "MUN482"
+  ]
+ },
+ {
+  "id": "T5-MUN482",
+  "group": "T5 name with a typo",
+  "query": "Krishnanaar",
+  "relevant": [
+   "MUN482"
+  ]
+ },
+ {
+  "id": "T4-MUN146",
+  "group": "T4 local government by name",
+  "query": "Jirabhawani",
+  "relevant": [
+   "MUN146"
+  ]
+ },
+ {
+  "id": "T5-MUN146",
+  "group": "T5 name with a typo",
+  "query": "Jirabhaani",
+  "relevant": [
+   "MUN146"
+  ]
+ },
+ {
+  "id": "T4-MUN494",
+  "group": "T4 local government by name",
+  "query": "Sarawal",
+  "relevant": [
+   "MUN494"
+  ]
+ },
+ {
+  "id": "T5-MUN494",
+  "group": "T5 name with a typo",
+  "query": "Saraal",
+  "relevant": [
+   "MUN494"
+  ]
+ },
+ {
+  "id": "T4-MUN235",
+  "group": "T4 local government by name",
+  "query": "Janaknandani",
+  "relevant": [
+   "MUN235"
+  ]
+ },
+ {
+  "id": "T5-MUN235",
+  "group": "T5 name with a typo",
+  "query": "Janknandani",
+  "relevant": [
+   "MUN235"
+  ]
+ },
+ {
+  "id": "T4-MUN125",
+  "group": "T4 local government by name",
+  "query": "Laligurans",
+  "relevant": [
+   "MUN125"
+  ]
+ },
+ {
+  "id": "T5-MUN125",
+  "group": "T5 name with a typo",
+  "query": "Laliurans",
+  "relevant": [
+   "MUN125"
+  ]
+ },
+ {
+  "id": "T4-MUN642",
+  "group": "T4 local government by name",
+  "query": "Chingad",
+  "relevant": [
+   "MUN642"
+  ]
+ },
+ {
+  "id": "T5-MUN642",
+  "group": "T5 name with a typo",
+  "query": "Chinad",
+  "relevant": [
+   "MUN642"
+  ]
+ },
+ {
+  "id": "T4-MUN468",
+  "group": "T4 local government by name",
+  "query": "Bhanu",
+  "relevant": [
+   "MUN468"
+  ]
+ },
+ {
+  "id": "T5-MUN468",
+  "group": "T5 name with a typo",
+  "query": "Banu",
+  "relevant": [
+   "MUN468"
+  ]
+ },
+ {
+  "id": "T4-MUN481",
+  "group": "T4 local government by name",
+  "query": "Shivaraj",
+  "relevant": [
+   "MUN481"
+  ]
+ },
+ {
+  "id": "T5-MUN481",
+  "group": "T5 name with a typo",
+  "query": "Sivaraj",
+  "relevant": [
+   "MUN481"
+  ]
+ },
+ {
+  "id": "T4-MUN559",
+  "group": "T4 local government by name",
+  "query": "Runtigadi",
+  "relevant": [
+   "MUN559"
+  ]
+ },
+ {
+  "id": "T5-MUN559",
+  "group": "T5 name with a typo",
+  "query": "Runtgadi",
+  "relevant": [
+   "MUN559"
+  ]
+ },
+ {
+  "id": "T4-MUN722",
+  "group": "T4 local government by name",
+  "query": "Kamalbazar",
+  "relevant": [
+   "MUN722"
+  ]
+ },
+ {
+  "id": "T5-MUN722",
+  "group": "T5 name with a typo",
+  "query": "Kaalbazar",
+  "relevant": [
+   "MUN722"
+  ]
+ },
+ {
+  "id": "T4-MUN574",
+  "group": "T4 local government by name",
+  "query": "Narainapur",
+  "relevant": [
+   "MUN574"
+  ]
+ },
+ {
+  "id": "T5-MUN574",
+  "group": "T5 name with a typo",
+  "query": "Nrainapur",
+  "relevant": [
+   "MUN574"
+  ]
+ },
+ {
+  "id": "T4-MUN412",
+  "group": "T4 local government by name",
+  "query": "Aarughat",
+  "relevant": [
+   "MUN412"
+  ]
+ },
+ {
+  "id": "T5-MUN412",
+  "group": "T5 name with a typo",
+  "query": "Aarghat",
+  "relevant": [
+   "MUN412"
+  ]
+ },
+ {
+  "id": "T4-MUN316",
+  "group": "T4 local government by name",
+  "query": "Budhalikantha",
+  "relevant": [
+   "MUN316"
+  ]
+ },
+ {
+  "id": "T5-MUN316",
+  "group": "T5 name with a typo",
+  "query": "Budhalikanta",
+  "relevant": [
+   "MUN316"
+  ]
+ },
+ {
+  "id": "T4-MUN562",
+  "group": "T4 local government by name",
+  "query": "Lungri",
+  "relevant": [
+   "MUN562"
+  ]
+ },
+ {
+  "id": "T5-MUN562",
+  "group": "T5 name with a typo",
+  "query": "Lunri",
+  "relevant": [
+   "MUN562"
+  ]
+ },
+ {
+  "id": "T4-MUN514",
+  "group": "T4 local government by name",
+  "query": "Chhatradev",
+  "relevant": [
+   "MUN514"
+  ]
+ },
+ {
+  "id": "T5-MUN514",
+  "group": "T5 name with a typo",
+  "query": "Chatradev",
+  "relevant": [
+   "MUN514"
+  ]
+ },
+ {
+  "id": "T4-MUN684",
+  "group": "T4 local government by name",
+  "query": "Talkot",
+  "relevant": [
+   "MUN684"
+  ]
+ },
+ {
+  "id": "T5-MUN684",
+  "group": "T5 name with a typo",
+  "query": "Tlkot",
+  "relevant": [
+   "MUN684"
+  ]
+ },
+ {
+  "id": "T4-MUN707",
+  "group": "T4 local government by name",
+  "query": "Shikhar",
+  "relevant": [
+   "MUN707"
+  ]
+ },
+ {
+  "id": "T5-MUN707",
+  "group": "T5 name with a typo",
+  "query": "Shikhr",
+  "relevant": [
+   "MUN707"
+  ]
+ },
+ {
+  "id": "T4-MUN444",
+  "group": "T4 local government by name",
+  "query": "Devachuli",
+  "relevant": [
+   "MUN444"
+  ]
+ },
+ {
+  "id": "T5-MUN444",
+  "group": "T5 name with a typo",
+  "query": "Devahuli",
+  "relevant": [
+   "MUN444"
+  ]
+ },
+ {
+  "id": "T4-MUN208",
+  "group": "T4 local government by name",
+  "query": "Siraha",
+  "relevant": [
+   "MUN208"
+  ]
+ },
+ {
+  "id": "T5-MUN208",
+  "group": "T5 name with a typo",
+  "query": "Sirha",
+  "relevant": [
+   "MUN208"
+  ]
+ },
+ {
+  "id": "T6-rastriyasandesh.com",
+  "group": "T6 website by name",
+  "query": "rastriya sandesh",
+  "relevant": [
+   "rastriyasandesh.com"
+  ]
+ },
+ {
+  "id": "T6-jhapaonline.com",
+  "group": "T6 website by name",
+  "query": "jhapa online",
+  "relevant": [
+   "jhapaonline.com"
+  ]
+ },
+ {
+  "id": "T6-mediasanchar.com",
+  "group": "T6 website by name",
+  "query": "media sanchar",
+  "relevant": [
+   "mediasanchar.com"
+  ]
+ },
+ {
+  "id": "T6-kanchannews.com",
+  "group": "T6 website by name",
+  "query": "kanchan news",
+  "relevant": [
+   "kanchannews.com"
+  ]
+ },
+ {
+  "id": "T6-citypostdaily.com",
+  "group": "T6 website by name",
+  "query": "city post daily",
+  "relevant": [
+   "citypostdaily.com"
+  ]
+ },
+ {
+  "id": "T6-nepalinfo.net",
+  "group": "T6 website by name",
+  "query": "nepal info",
+  "relevant": [
+   "nepalinfo.net"
+  ]
+ },
+ {
+  "id": "T6-nationalinfotechcollege.edu.np",
+  "group": "T6 website by name",
+  "query": "national info tech college",
+  "relevant": [
+   "nationalinfotechcollege.edu.np"
+  ]
+ },
+ {
+  "id": "T6-onlineannapurna.com",
+  "group": "T6 website by name",
+  "query": "online annapurna",
+  "relevant": [
+   "onlineannapurna.com"
+  ]
+ },
+ {
+  "id": "T6-pokharaaaja.com",
+  "group": "T6 website by name",
+  "query": "pokhara aaja",
+  "relevant": [
+   "pokharaaaja.com"
+  ]
+ },
+ {
+  "id": "T6-dudhkoshikhabar.com",
+  "group": "T6 website by name",
+  "query": "dudhkoshi khabar",
+  "relevant": [
+   "dudhkoshikhabar.com"
+  ]
+ },
+ {
+  "id": "T6-dhangadhinews.com",
+  "group": "T6 website by name",
+  "query": "dhangadhi news",
+  "relevant": [
+   "dhangadhinews.com"
+  ]
+ },
+ {
+  "id": "T6-onlinerapti.com",
+  "group": "T6 website by name",
+  "query": "online rapti",
+  "relevant": [
+   "onlinerapti.com"
+  ]
+ },
+ {
+  "id": "T6-nepalonlinemedia.com",
+  "group": "T6 website by name",
+  "query": "nepal online media",
+  "relevant": [
+   "nepalonlinemedia.com"
+  ]
+ },
+ {
+  "id": "T6-gaurishankarsanchar.com",
+  "group": "T6 website by name",
+  "query": "gaurishankar sanchar",
+  "relevant": [
+   "gaurishankarsanchar.com"
+  ]
+ },
+ {
+  "id": "T6-makalupost.com",
+  "group": "T6 website by name",
+  "query": "makalu post",
+  "relevant": [
+   "makalupost.com"
+  ]
+ },
+ {
+  "id": "T6-pokharasports.com",
+  "group": "T6 website by name",
+  "query": "pokhara sports",
+  "relevant": [
+   "pokharasports.com"
+  ]
+ },
+ {
+  "id": "T6-karnalionline.com",
+  "group": "T6 website by name",
+  "query": "karnali online",
+  "relevant": [
+   "karnalionline.com"
+  ]
+ },
+ {
+  "id": "T6-myagdionline.com",
+  "group": "T6 website by name",
+  "query": "myagdi online",
+  "relevant": [
+   "myagdionline.com"
+  ]
+ },
+ {
+  "id": "T6-palikaonline.com",
+  "group": "T6 website by name",
+  "query": "palika online",
+  "relevant": [
+   "palikaonline.com"
+  ]
+ },
+ {
+  "id": "T6-healthaawaj.com",
+  "group": "T6 website by name",
+  "query": "health aawaj",
+  "relevant": [
+   "healthaawaj.com"
+  ]
+ },
+ {
+  "id": "T6-rastriyakhabar.com",
+  "group": "T6 website by name",
+  "query": "rastriya khabar",
+  "relevant": [
+   "rastriyakhabar.com"
+  ]
+ },
+ {
+  "id": "T6-salyannews.com",
+  "group": "T6 website by name",
+  "query": "salyan news",
+  "relevant": [
+   "salyannews.com"
+  ]
+ },
+ {
+  "id": "T6-bicharnews.com",
+  "group": "T6 website by name",
+  "query": "bichar news",
+  "relevant": [
+   "bicharnews.com"
+  ]
+ },
+ {
+  "id": "T6-newsexpressnepal.com",
+  "group": "T6 website by name",
+  "query": "news express nepal",
+  "relevant": [
+   "newsexpressnepal.com"
+  ]
+ },
+ {
+  "id": "T6-krishiradio.org.np",
+  "group": "T6 website by name",
+  "query": "krishi radio",
+  "relevant": [
+   "krishiradio.org.np"
+  ]
+ },
+ {
+  "id": "T6-babaicampus.edu.np",
+  "group": "T6 website by name",
+  "query": "babai campus",
+  "relevant": [
+   "babaicampus.edu.np"
+  ]
+ },
+ {
+  "id": "T6-gandakinews.com.np",
+  "group": "T6 website by name",
+  "query": "gandaki news",
+  "relevant": [
+   "gandakinews.com.np"
+  ]
+ },
+ {
+  "id": "T6-radiodolpa.org.np",
+  "group": "T6 website by name",
+  "query": "radio dolpa",
+  "relevant": [
+   "radiodolpa.org.np"
+  ]
+ },
+ {
+  "id": "T6-economickhabar.com",
+  "group": "T6 website by name",
+  "query": "economic khabar",
+  "relevant": [
+   "economickhabar.com"
+  ]
+ },
+ {
+  "id": "T6-bagmatisamachar.com",
+  "group": "T6 website by name",
+  "query": "bagmati samachar",
+  "relevant": [
+   "bagmatisamachar.com"
+  ]
+ },
+ {
+  "id": "T6-radioghodaghodi.org.np",
+  "group": "T6 website by name",
+  "query": "radio ghodaghodi",
+  "relevant": [
+   "radioghodaghodi.org.np"
+  ]
+ },
+ {
+  "id": "T6-newsdainik.com",
+  "group": "T6 website by name",
+  "query": "news dainik",
+  "relevant": [
+   "newsdainik.com"
+  ]
+ },
+ {
+  "id": "T6-bangangaonline.com",
+  "group": "T6 website by name",
+  "query": "banganga online",
+  "relevant": [
+   "bangangaonline.com"
+  ]
+ },
+ {
+  "id": "T6-modikhabar.com",
+  "group": "T6 website by name",
+  "query": "modi khabar",
+  "relevant": [
+   "modikhabar.com"
+  ]
+ },
+ {
+  "id": "T6-sunapatinews.com",
+  "group": "T6 website by name",
+  "query": "sunapati news",
+  "relevant": [
+   "sunapatinews.com"
+  ]
+ },
+ {
+  "id": "T6-pyuthanonline.com",
+  "group": "T6 website by name",
+  "query": "pyuthan online",
+  "relevant": [
+   "pyuthanonline.com"
+  ]
+ },
+ {
+  "id": "T6-gadhikhabar.com",
+  "group": "T6 website by name",
+  "query": "gadhi khabar",
+  "relevant": [
+   "gadhikhabar.com"
+  ]
+ },
+ {
+  "id": "T6-nepalgunjcollege.edu.np",
+  "group": "T6 website by name",
+  "query": "nepalgunj college",
+  "relevant": [
+   "nepalgunjcollege.edu.np"
+  ]
+ },
+ {
+  "id": "T6-salyanonline.com",
+  "group": "T6 website by name",
+  "query": "salyan online",
+  "relevant": [
+   "salyanonline.com"
+  ]
+ },
+ {
+  "id": "T6-tokhakhabar.com",
+  "group": "T6 website by name",
+  "query": "tokha khabar",
+  "relevant": [
+   "tokhakhabar.com"
+  ]
+ },
+ {
+  "id": "T6-arthapost.com",
+  "group": "T6 website by name",
+  "query": "artha post",
+  "relevant": [
+   "arthapost.com"
+  ]
+ },
+ {
+  "id": "T6-dainiknepal.com",
+  "group": "T6 website by name",
+  "query": "dainik nepal",
+  "relevant": [
+   "dainiknepal.com"
+  ]
+ },
+ {
+  "id": "T6-radiobhojpur.org.np",
+  "group": "T6 website by name",
+  "query": "radio bhojpur",
+  "relevant": [
+   "radiobhojpur.org.np"
+  ]
+ },
+ {
+  "id": "T6-nepaltimes.com",
+  "group": "T6 website by name",
+  "query": "nepal times",
+  "relevant": [
+   "nepaltimes.com"
+  ]
+ },
+ {
+  "id": "T6-globaltimesnepal.com",
+  "group": "T6 website by name",
+  "query": "global times nepal",
+  "relevant": [
+   "globaltimesnepal.com"
+  ]
+ },
+ {
+  "id": "T6-nepalnewsbank.com",
+  "group": "T6 website by name",
+  "query": "nepal news bank",
+  "relevant": [
+   "nepalnewsbank.com"
+  ]
+ },
+ {
+  "id": "T6-damakonline.com",
+  "group": "T6 website by name",
+  "query": "damak online",
+  "relevant": [
+   "damakonline.com"
+  ]
+ },
+ {
+  "id": "T6-dhaulagirionline.com",
+  "group": "T6 website by name",
+  "query": "dhaulagiri online",
+  "relevant": [
+   "dhaulagirionline.com"
+  ]
+ },
+ {
+  "id": "T6-raischool.edu.np",
+  "group": "T6 website by name",
+  "query": "rai school",
+  "relevant": [
+   "raischool.edu.np"
+  ]
+ },
+ {
+  "id": "T6-everestschool.edu.np",
+  "group": "T6 website by name",
+  "query": "everest school",
+  "relevant": [
+   "everestschool.edu.np"
+  ]
+ },
+ {
+  "id": "T6-koshinepal.com",
+  "group": "T6 website by name",
+  "query": "koshi nepal",
+  "relevant": [
+   "koshinepal.com"
+  ]
+ },
+ {
+  "id": "T6-jaljalakhabar.com",
+  "group": "T6 website by name",
+  "query": "jaljala khabar",
+  "relevant": [
+   "jaljalakhabar.com"
+  ]
+ },
+ {
+  "id": "T6-madheshsanchar.com",
+  "group": "T6 website by name",
+  "query": "madhesh sanchar",
+  "relevant": [
+   "madheshsanchar.com"
+  ]
+ },
+ {
+  "id": "T6-nepaltravelkhabar.com",
+  "group": "T6 website by name",
+  "query": "nepal travel khabar",
+  "relevant": [
+   "nepaltravelkhabar.com"
+  ]
+ },
+ {
+  "id": "T6-lumbininews.com",
+  "group": "T6 website by name",
+  "query": "lumbini news",
+  "relevant": [
+   "lumbininews.com"
+  ]
+ },
+ {
+  "id": "T6-birgunjlive.com",
+  "group": "T6 website by name",
+  "query": "birgunj live",
+  "relevant": [
+   "birgunjlive.com"
+  ]
+ },
+ {
+  "id": "T6-kohalpurtoday.com",
+  "group": "T6 website by name",
+  "query": "kohalpur today",
+  "relevant": [
+   "kohalpurtoday.com"
+  ]
+ },
+ {
+  "id": "T6-jhapatimes.com",
+  "group": "T6 website by name",
+  "query": "jhapa times",
+  "relevant": [
+   "jhapatimes.com"
+  ]
+ },
+ {
+  "id": "T6-expresscitynews.com",
+  "group": "T6 website by name",
+  "query": "express city news",
+  "relevant": [
+   "expresscitynews.com"
+  ]
+ },
+ {
+  "id": "T6-kaskinews.com",
+  "group": "T6 website by name",
+  "query": "kaski news",
+  "relevant": [
+   "kaskinews.com"
+  ]
+ },
+ {
+  "id": "T6-economykhabar.com",
+  "group": "T6 website by name",
+  "query": "economy khabar",
+  "relevant": [
+   "economykhabar.com"
+  ]
+ },
+ {
+  "id": "T6-ichchhakamananews.com",
+  "group": "T6 website by name",
+  "query": "ichchhakamana news",
+  "relevant": [
+   "ichchhakamananews.com"
+  ]
+ },
+ {
+  "id": "T6-nationalacademy.edu.np",
+  "group": "T6 website by name",
+  "query": "national academy",
+  "relevant": [
+   "nationalacademy.edu.np"
+  ]
+ },
+ {
+  "id": "T6-valleycollege.edu.np",
+  "group": "T6 website by name",
+  "query": "valley college",
+  "relevant": [
+   "valleycollege.edu.np"
+  ]
+ },
+ {
+  "id": "T6-lumbinionline.com",
+  "group": "T6 website by name",
+  "query": "lumbini online",
+  "relevant": [
+   "lumbinionline.com"
+  ]
+ },
+ {
+  "id": "T6-janasandesh.com",
+  "group": "T6 website by name",
+  "query": "jana sandesh",
+  "relevant": [
+   "janasandesh.com"
+  ]
+ },
+ {
+  "id": "T6-nawalpuraawaj.com",
+  "group": "T6 website by name",
+  "query": "nawalpur aawaj",
+  "relevant": [
+   "nawalpuraawaj.com"
+  ]
+ },
+ {
+  "id": "T6-ektainternational.biz.np",
+  "group": "T6 website by name",
+  "query": "ekta international",
+  "relevant": [
+   "ektainternational.biz.np"
+  ]
+ },
+ {
+  "id": "T6-worlddainik.com",
+  "group": "T6 website by name",
+  "query": "world dainik",
+  "relevant": [
+   "worlddainik.com"
+  ]
+ },
+ {
+  "id": "T6-nepalonlinekhabar.com",
+  "group": "T6 website by name",
+  "query": "nepal online khabar",
+  "relevant": [
+   "nepalonlinekhabar.com"
+  ]
+ },
+ {
+  "id": "T6-nepalexpressmedia.com",
+  "group": "T6 website by name",
+  "query": "nepal express media",
+  "relevant": [
+   "nepalexpressmedia.com"
+  ]
+ },
+ {
+  "id": "T6-mechinagaronline.com",
+  "group": "T6 website by name",
+  "query": "mechinagar online",
+  "relevant": [
+   "mechinagaronline.com"
+  ]
+ },
+ {
+  "id": "T6-citycollege.edu.np",
+  "group": "T6 website by name",
+  "query": "city college",
+  "relevant": [
+   "citycollege.edu.np"
+  ]
+ },
+ {
+  "id": "T6-nepalsanchar.com",
+  "group": "T6 website by name",
+  "query": "nepal sanchar",
+  "relevant": [
+   "nepalsanchar.com"
+  ]
+ },
+ {
+  "id": "T6-nepalrastrakhabar.com",
+  "group": "T6 website by name",
+  "query": "nepal rastra khabar",
+  "relevant": [
+   "nepalrastrakhabar.com"
+  ]
+ },
+ {
+  "id": "T6-jaljalamedia.com",
+  "group": "T6 website by name",
+  "query": "jaljala media",
+  "relevant": [
+   "jaljalamedia.com"
+  ]
+ },
+ {
+  "id": "T6-businessnewsnepal.com",
+  "group": "T6 website by name",
+  "query": "business news nepal",
+  "relevant": [
+   "businessnewsnepal.com"
+  ]
+ },
+ {
+  "id": "T6-globalonlinetelevision.com",
+  "group": "T6 website by name",
+  "query": "global online television",
+  "relevant": [
+   "globalonlinetelevision.com"
+  ]
+ },
+ {
+  "id": "T6-guransmedia.com",
+  "group": "T6 website by name",
+  "query": "gurans media",
+  "relevant": [
+   "guransmedia.com"
+  ]
+ },
+ {
+  "id": "T6-aawajmedia.com",
+  "group": "T6 website by name",
+  "query": "aawaj media",
+  "relevant": [
+   "aawajmedia.com"
+  ]
+ },
+ {
+  "id": "T6-businesskhabar.com",
+  "group": "T6 website by name",
+  "query": "business khabar",
+  "relevant": [
+   "businesskhabar.com"
+  ]
+ },
+ {
+  "id": "T6-musikotonlinekhabar.com",
+  "group": "T6 website by name",
+  "query": "musikot online khabar",
+  "relevant": [
+   "musikotonlinekhabar.com"
+  ]
+ },
+ {
+  "id": "T6-technepal.info.np",
+  "group": "T6 website by name",
+  "query": "tech nepal",
+  "relevant": [
+   "technepal.info.np"
+  ]
+ },
+ {
+  "id": "T6-karnaliawaj.com",
+  "group": "T6 website by name",
+  "query": "karnali awaj",
+  "relevant": [
+   "karnaliawaj.com"
+  ]
+ },
+ {
+  "id": "T6-livekarnali.com",
+  "group": "T6 website by name",
+  "query": "live karnali",
+  "relevant": [
+   "livekarnali.com"
+  ]
+ },
+ {
+  "id": "T6-newsdhading.com",
+  "group": "T6 website by name",
+  "query": "news dhading",
+  "relevant": [
+   "newsdhading.com"
+  ]
+ },
+ {
+  "id": "T6-rarasanchar.com",
+  "group": "T6 website by name",
+  "query": "rara sanchar",
+  "relevant": [
+   "rarasanchar.com"
+  ]
+ },
+ {
+  "id": "T6-everestnewsnepal.com",
+  "group": "T6 website by name",
+  "query": "everest news nepal",
+  "relevant": [
+   "everestnewsnepal.com"
+  ]
+ },
+ {
+  "id": "T6-arthiklive.com",
+  "group": "T6 website by name",
+  "query": "arthik live",
+  "relevant": [
+   "arthiklive.com"
+  ]
+ },
+ {
+  "id": "T6-khabarcenter.com",
+  "group": "T6 website by name",
+  "query": "khabar center",
+  "relevant": [
+   "khabarcenter.com"
+  ]
+ },
+ {
+  "id": "T6-dhanushatimes.com",
+  "group": "T6 website by name",
+  "query": "dhanusha times",
+  "relevant": [
+   "dhanushatimes.com"
+  ]
+ },
+ {
+  "id": "T6-sandakpuronline.com",
+  "group": "T6 website by name",
+  "query": "sandakpur online",
+  "relevant": [
+   "sandakpuronline.com"
+  ]
+ },
+ {
+  "id": "T6-newssewa.com",
+  "group": "T6 website by name",
+  "query": "news sewa",
+  "relevant": [
+   "newssewa.com"
+  ]
+ },
+ {
+  "id": "T6-rautahatsandesh.com",
+  "group": "T6 website by name",
+  "query": "rautahat sandesh",
+  "relevant": [
+   "rautahatsandesh.com"
+  ]
+ },
+ {
+  "id": "T6-onlinebanganga.com",
+  "group": "T6 website by name",
+  "query": "online banganga",
+  "relevant": [
+   "onlinebanganga.com"
+  ]
+ },
+ {
+  "id": "T6-newsandesh.com",
+  "group": "T6 website by name",
+  "query": "new sandesh",
+  "relevant": [
+   "newsandesh.com"
+  ]
+ },
+ {
+  "id": "T6-globalsanchar.com",
+  "group": "T6 website by name",
+  "query": "global sanchar",
+  "relevant": [
+   "globalsanchar.com"
+  ]
+ },
+ {
+  "id": "T6-chingadkhabar.com",
+  "group": "T6 website by name",
+  "query": "chingad khabar",
+  "relevant": [
+   "chingadkhabar.com"
+  ]
+ },
+ {
+  "id": "T6-pokharaexpress.com",
+  "group": "T6 website by name",
+  "query": "pokhara express",
+  "relevant": [
+   "pokharaexpress.com"
+  ]
+ },
+ {
+  "id": "T6-janakhabar.com",
+  "group": "T6 website by name",
+  "query": "jana khabar",
+  "relevant": [
+   "janakhabar.com"
+  ]
+ }
+]

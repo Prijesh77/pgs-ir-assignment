@@ -1,0 +1,412 @@
+{
+  "topics": 461,
+  "groups": {
+    "T1 locals by district (EN)": 77,
+    "T2 locals by district (NE)": 77,
+    "T3 districts by province": 7,
+    "T4 local government by name": 100,
+    "T5 name with a typo": 100,
+    "T6 website by name": 100
+  },
+  "runs": {
+    "Boolean (AND)": {
+      "model": "boolean",
+      "expand": false,
+      "engine": "main",
+      "mean_ms": 0.05,
+      "scores": {
+        "T1 locals by district (EN)": {
+          "P@10": 0.8506,
+          "R@10": 0.9176,
+          "MAP": 0.9974,
+          "MRR": 0.9935,
+          "nDCG@10": 0.9971
+        },
+        "T2 locals by district (NE)": {
+          "P@10": 0.8519,
+          "R@10": 0.9189,
+          "MAP": 1.0,
+          "MRR": 1.0,
+          "nDCG@10": 1.0
+        },
+        "T3 districts by province": {
+          "P@10": 0.8714,
+          "R@10": 0.8181,
+          "MAP": 0.791,
+          "MRR": 0.4762,
+          "nDCG@10": 0.7738
+        },
+        "T4 local government by name": {
+          "P@10": 0.104,
+          "R@10": 1.0,
+          "MAP": 0.4937,
+          "MRR": 0.4903,
+          "nDCG@10": 0.6261
+        },
+        "T5 name with a typo": {
+          "P@10": 0.0,
+          "R@10": 0.0,
+          "MAP": 0.0,
+          "MRR": 0.0,
+          "nDCG@10": 0.0
+        },
+        "T6 website by name": {
+          "P@10": 0.095,
+          "R@10": 0.95,
+          "MAP": 0.7825,
+          "MRR": 0.7825,
+          "nDCG@10": 0.8222
+        },
+        "ALL": {
+          "P@10": 0.3408,
+          "R@10": 0.7421,
+          "MAP": 0.6225,
+          "MRR": 0.6163,
+          "nDCG@10": 0.6595
+        }
+      }
+    },
+    "TF-IDF": {
+      "model": "tfidf",
+      "expand": false,
+      "engine": "main",
+      "mean_ms": 1.94,
+      "scores": {
+        "T1 locals by district (EN)": {
+          "P@10": 0.6818,
+          "R@10": 0.7621,
+          "MAP": 0.7165,
+          "MRR": 0.6057,
+          "nDCG@10": 0.7061
+        },
+        "T2 locals by district (NE)": {
+          "P@10": 0.7935,
+          "R@10": 0.8617,
+          "MAP": 0.8823,
+          "MRR": 0.9091,
+          "nDCG@10": 0.9001
+        },
+        "T3 districts by province": {
+          "P@10": 0.0143,
+          "R@10": 0.011,
+          "MAP": 0.0057,
+          "MRR": 0.025,
+          "nDCG@10": 0.0091
+        },
+        "T4 local government by name": {
+          "P@10": 0.104,
+          "R@10": 1.0,
+          "MAP": 0.8437,
+          "MRR": 0.8424,
+          "nDCG@10": 0.883
+        },
+        "T5 name with a typo": {
+          "P@10": 0.008,
+          "R@10": 0.08,
+          "MAP": 0.0568,
+          "MRR": 0.0568,
+          "nDCG@10": 0.0622
+        },
+        "T6 website by name": {
+          "P@10": 0.1,
+          "R@10": 1.0,
+          "MAP": 0.8719,
+          "MRR": 0.8719,
+          "nDCG@10": 0.9035
+        },
+        "ALL": {
+          "P@10": 0.2926,
+          "R@10": 0.7226,
+          "MAP": 0.6516,
+          "MRR": 0.6375,
+          "nDCG@10": 0.6694
+        }
+      }
+    },
+    "BM25F": {
+      "model": "bm25",
+      "expand": false,
+      "engine": "main",
+      "mean_ms": 1.38,
+      "scores": {
+        "T1 locals by district (EN)": {
+          "P@10": 0.661,
+          "R@10": 0.7478,
+          "MAP": 0.6538,
+          "MRR": 0.5104,
+          "nDCG@10": 0.6477
+        },
+        "T2 locals by district (NE)": {
+          "P@10": 0.8039,
+          "R@10": 0.8793,
+          "MAP": 0.7926,
+          "MRR": 0.5758,
+          "nDCG@10": 0.809
+        },
+        "T3 districts by province": {
+          "P@10": 0.3571,
+          "R@10": 0.369,
+          "MAP": 0.4702,
+          "MRR": 0.448,
+          "nDCG@10": 0.3635
+        },
+        "T4 local government by name": {
+          "P@10": 0.104,
+          "R@10": 1.0,
+          "MAP": 0.8457,
+          "MRR": 0.8443,
+          "nDCG@10": 0.8845
+        },
+        "T5 name with a typo": {
+          "P@10": 0.008,
+          "R@10": 0.08,
+          "MAP": 0.0568,
+          "MRR": 0.0568,
+          "nDCG@10": 0.0622
+        },
+        "T6 website by name": {
+          "P@10": 0.1,
+          "R@10": 1.0,
+          "MAP": 0.9169,
+          "MRR": 0.9169,
+          "nDCG@10": 0.9373
+        },
+        "ALL": {
+          "P@10": 0.2961,
+          "R@10": 0.7286,
+          "MAP": 0.6434,
+          "MRR": 0.5826,
+          "nDCG@10": 0.6575
+        }
+      }
+    },
+    "TF-IDF + expansion": {
+      "model": "tfidf",
+      "expand": true,
+      "engine": "main",
+      "mean_ms": 3.67,
+      "scores": {
+        "T1 locals by district (EN)": {
+          "P@10": 0.6961,
+          "R@10": 0.7753,
+          "MAP": 0.7051,
+          "MRR": 0.6187,
+          "nDCG@10": 0.7113
+        },
+        "T2 locals by district (NE)": {
+          "P@10": 0.7273,
+          "R@10": 0.8064,
+          "MAP": 0.7678,
+          "MRR": 0.696,
+          "nDCG@10": 0.7694
+        },
+        "T3 districts by province": {
+          "P@10": 0.0143,
+          "R@10": 0.011,
+          "MAP": 0.0045,
+          "MRR": 0.0314,
+          "nDCG@10": 0.0122
+        },
+        "T4 local government by name": {
+          "P@10": 0.104,
+          "R@10": 1.0,
+          "MAP": 0.962,
+          "MRR": 0.962,
+          "nDCG@10": 0.9717
+        },
+        "T5 name with a typo": {
+          "P@10": 0.078,
+          "R@10": 0.75,
+          "MAP": 0.7023,
+          "MRR": 0.7023,
+          "nDCG@10": 0.7143
+        },
+        "T6 website by name": {
+          "P@10": 0.1,
+          "R@10": 1.0,
+          "MAP": 0.8395,
+          "MRR": 0.8395,
+          "nDCG@10": 0.8782
+        },
+        "ALL": {
+          "P@10": 0.2991,
+          "R@10": 0.8609,
+          "MAP": 0.7892,
+          "MRR": 0.7632,
+          "nDCG@10": 0.8037
+        }
+      }
+    },
+    "BM25F + expansion": {
+      "model": "bm25",
+      "expand": true,
+      "engine": "main",
+      "mean_ms": 2.79,
+      "scores": {
+        "T1 locals by district (EN)": {
+          "P@10": 0.6766,
+          "R@10": 0.7646,
+          "MAP": 0.6686,
+          "MRR": 0.4915,
+          "nDCG@10": 0.6607
+        },
+        "T2 locals by district (NE)": {
+          "P@10": 0.8,
+          "R@10": 0.8744,
+          "MAP": 0.791,
+          "MRR": 0.5823,
+          "nDCG@10": 0.8069
+        },
+        "T3 districts by province": {
+          "P@10": 0.3429,
+          "R@10": 0.3512,
+          "MAP": 0.4355,
+          "MRR": 0.3932,
+          "nDCG@10": 0.33
+        },
+        "T4 local government by name": {
+          "P@10": 0.104,
+          "R@10": 1.0,
+          "MAP": 1.0,
+          "MRR": 1.0,
+          "nDCG@10": 1.0
+        },
+        "T5 name with a typo": {
+          "P@10": 0.078,
+          "R@10": 0.75,
+          "MAP": 0.7253,
+          "MRR": 0.7253,
+          "nDCG@10": 0.7315
+        },
+        "T6 website by name": {
+          "P@10": 0.1,
+          "R@10": 1.0,
+          "MAP": 0.8234,
+          "MRR": 0.8234,
+          "nDCG@10": 0.8664
+        },
+        "ALL": {
+          "P@10": 0.313,
+          "R@10": 0.8756,
+          "MAP": 0.8033,
+          "MRR": 0.7382,
+          "nDCG@10": 0.8137
+        }
+      }
+    },
+    "Hybrid RRF + expansion": {
+      "model": "hybrid",
+      "expand": true,
+      "engine": "main",
+      "mean_ms": 6.36,
+      "scores": {
+        "T1 locals by district (EN)": {
+          "P@10": 0.6792,
+          "R@10": 0.7655,
+          "MAP": 0.6933,
+          "MRR": 0.6094,
+          "nDCG@10": 0.6939
+        },
+        "T2 locals by district (NE)": {
+          "P@10": 0.7234,
+          "R@10": 0.8011,
+          "MAP": 0.8346,
+          "MRR": 0.9481,
+          "nDCG@10": 0.853
+        },
+        "T3 districts by province": {
+          "P@10": 0.0143,
+          "R@10": 0.011,
+          "MAP": 0.1037,
+          "MRR": 0.0923,
+          "nDCG@10": 0.0198
+        },
+        "T4 local government by name": {
+          "P@10": 0.104,
+          "R@10": 1.0,
+          "MAP": 0.995,
+          "MRR": 0.995,
+          "nDCG@10": 0.9963
+        },
+        "T5 name with a typo": {
+          "P@10": 0.078,
+          "R@10": 0.75,
+          "MAP": 0.7203,
+          "MRR": 0.7203,
+          "nDCG@10": 0.7278
+        },
+        "T6 website by name": {
+          "P@10": 0.1,
+          "R@10": 1.0,
+          "MAP": 0.8413,
+          "MRR": 0.8413,
+          "nDCG@10": 0.88
+        },
+        "ALL": {
+          "P@10": 0.2957,
+          "R@10": 0.8584,
+          "MAP": 0.8114,
+          "MRR": 0.8161,
+          "nDCG@10": 0.8236
+        }
+      }
+    },
+    "BM25F + expansion, no segmentation": {
+      "model": "bm25",
+      "expand": true,
+      "engine": "no_seg",
+      "mean_ms": 2.66,
+      "scores": {
+        "T1 locals by district (EN)": {
+          "P@10": 0.7961,
+          "R@10": 0.8735,
+          "MAP": 0.7649,
+          "MRR": 0.4805,
+          "nDCG@10": 0.7777
+        },
+        "T2 locals by district (NE)": {
+          "P@10": 0.8026,
+          "R@10": 0.878,
+          "MAP": 0.7905,
+          "MRR": 0.5671,
+          "nDCG@10": 0.8062
+        },
+        "T3 districts by province": {
+          "P@10": 0.8,
+          "R@10": 0.761,
+          "MAP": 0.7337,
+          "MRR": 0.4762,
+          "nDCG@10": 0.7033
+        },
+        "T4 local government by name": {
+          "P@10": 0.104,
+          "R@10": 1.0,
+          "MAP": 1.0,
+          "MRR": 1.0,
+          "nDCG@10": 1.0
+        },
+        "T5 name with a typo": {
+          "P@10": 0.078,
+          "R@10": 0.75,
+          "MAP": 0.74,
+          "MRR": 0.74,
+          "nDCG@10": 0.7426
+        },
+        "T6 website by name": {
+          "P@10": 0.003,
+          "R@10": 0.03,
+          "MAP": 0.0251,
+          "MRR": 0.0251,
+          "nDCG@10": 0.0263
+        },
+        "ALL": {
+          "P@10": 0.3193,
+          "R@10": 0.6902,
+          "MAP": 0.6538,
+          "MRR": 0.5651,
+          "nDCG@10": 0.6589
+        }
+      }
+    }
+  }
+}

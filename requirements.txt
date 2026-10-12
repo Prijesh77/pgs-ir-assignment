@@ -1,0 +1,4 @@
+# The search engine itself uses only the Python standard library (Python 3.10+).
+# For the tests and the report chart:
+pytest>=7
+matplotlib>=3.7
