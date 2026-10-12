@@ -112,6 +112,13 @@ test, BM25 tuning on a dev/test split). Report:
 BM25 tuned on 232 dev queries (k1 = 0.5, b = 0.25); on the 229 held-out test
 queries MAP went from 0.794 to 0.854 (p < 0.001).
 
+## Week 8: presentation
+
+[report/Week8-PGS-Mini-Search.pptx](report/Week8-PGS-Mini-Search.pptx): 12 slides with speaker notes
+(problem, dataset, method, evaluation, findings, critical analysis, sample output,
+recommendations). Built by `node report/build_week8_deck.js` (needs `npm install pptxgenjs jszip
+react react-dom react-icons sharp` in `report/build/`).
+
 ## How it relates to PGS
 
 | Step | PGS Search Engine | This project |
