@@ -54,7 +54,7 @@ const method = [
   p(`The test collection has ${R.topics} queries in six groups: local governments by district in English (77) and in Nepali (77), districts by province (7), local governments by name (100), the same names with a typing mistake (100) and websites by name (100). The relevance judgments come from the dataset’s metadata and are graded: grade 2 means relevant (for “local governments in Kaski district”, every local government in Kaski) and grade 1 means partially relevant (the Kaski District page, which lists them). There are ${R.judgments.relevant.toLocaleString("en")} relevant and ${R.judgments.partial} partially relevant judgments. Eight runs were compared: the six Week 6 runs, BM25F + expansion without word segmentation (an ablation) and BM25F + expansion with tuned parameters.`),
   h2("Measures and Experiments"),
   ...table(["Measure", "Meaning"], [
-    ["P@k, R@k, F1@10", "Share of the top k that is relevant; share of all relevant documents found in the top k; their harmonic mean"],
+    ["Precision at k, Recall at k, F1 at 10", "Share of the top k that is relevant; share of all relevant documents found in the top k; their harmonic mean"],
     ["R-Precision", "Precision at rank R, where R is the number of relevant documents"],
     ["MAP", "Mean of average precision: precision at the rank of each relevant document"],
     ["MRR, S@1", "Mean of 1 / rank of the first relevant document; share of queries answered at rank 1"],
