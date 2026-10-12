@@ -15,7 +15,7 @@ const IMG = path.join(__dirname, "images");
 const evalReport = JSON.parse(fs.readFileSync(path.join(ROOT, "results", "evaluation.json"), "utf8"));
 const stats = JSON.parse(fs.readFileSync(path.join(__dirname, "build", "stats.json"), "utf8"));
 
-const GITHUB = "https://github.com/<your-username>/pgs-ir-assignment";
+const GITHUB = "https://github.com/Prijesh77/pgs-ir-assignment";
 // Times New Roman everywhere. It has no Devanagari letters, so Nepali words fall back to
 // Nirmala UI (the complex-script font); otherwise they would show as empty boxes.
 const FONT = { ascii: "Times New Roman", hAnsi: "Times New Roman", eastAsia: "Times New Roman", cs: "Nirmala UI" };

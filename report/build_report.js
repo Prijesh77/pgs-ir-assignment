@@ -15,7 +15,7 @@ const IMG = path.join(__dirname, "images");
 const evalReport = JSON.parse(fs.readFileSync(path.join(ROOT, "results", "evaluation.json"), "utf8"));
 const stats = JSON.parse(fs.readFileSync(path.join(__dirname, "build", "stats.json"), "utf8"));
 
-const GITHUB = "https://github.com/<your-username>/pgs-ir-assignment";
+const GITHUB = "https://github.com/Prijesh77/pgs-ir-assignment";
 const FONT = { ascii: "Calibri", hAnsi: "Calibri", cs: "Nirmala UI", eastAsia: "Calibri" };
 const MONO = { ascii: "Consolas", hAnsi: "Consolas", cs: "Nirmala UI", eastAsia: "Consolas" };
 const CONTENT_DXA = 9026; // A4 width 11906 - 2 x 1440 margins
