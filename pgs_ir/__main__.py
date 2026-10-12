@@ -5,6 +5,8 @@
     search "pokhara news" [-m bm25] [-k 10] [--no-expand]
     interactive                    type queries one after another
     evaluate                       run every model on the test queries (results/)
+    week7 [--show E1|E3|E4|E6|E7]  Week 7 evaluation: all measures, significance, tuning
+                                   (--show prints a saved section without re-running)
 """
 
 from __future__ import annotations
@@ -65,6 +67,9 @@ def main(argv: list[str] | None = None) -> int:
     i = sub.add_parser("interactive", help="type queries one after another")
     i.add_argument("-m", "--model", choices=MODELS, default="bm25")
     sub.add_parser("evaluate", help="evaluate every model on the test queries")
+    w = sub.add_parser("week7", help="Week 7 evaluation (results/week7/)")
+    w.add_argument("--show", choices=["E1", "E3", "E4", "E6", "E7"],
+                   help="print one section of the saved results instead of re-running")
     args = parser.parse_args(argv)
 
     if args.command == "build":
@@ -104,6 +109,20 @@ def main(argv: list[str] | None = None) -> int:
 
         print(format_report(run_evaluation()))
         print(f"Saved to {RESULTS_DIR}")
+    elif args.command == "week7":
+        import json
+
+        from pgs_ir.week7 import OUT_DIR, format_text, run_week7
+
+        if args.show:
+            report = json.loads((OUT_DIR / "week7_results.json").read_text(encoding="utf-8"))
+            print(format_text(report, args.show))
+        else:
+            report = run_week7()
+            print()
+            print(format_text(report))
+            print()
+            print(f"Saved to {OUT_DIR} ({report['seconds']} s)")
     return 0
 
 

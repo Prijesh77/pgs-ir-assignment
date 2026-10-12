@@ -7,10 +7,10 @@
 | Boolean (AND) | 0.341 | 0.742 | 0.623 | 0.616 | 0.659 | 0.1 |
 | TF-IDF | 0.293 | 0.723 | 0.652 | 0.637 | 0.669 | 1.9 |
 | BM25F | 0.296 | 0.729 | 0.643 | 0.583 | 0.657 | 1.4 |
-| TF-IDF + expansion | 0.299 | 0.861 | 0.789 | 0.763 | 0.804 | 3.7 |
-| BM25F + expansion | 0.313 | 0.876 | 0.803 | 0.738 | 0.814 | 2.8 |
-| Hybrid RRF + expansion | 0.296 | 0.858 | 0.811 | 0.816 | 0.824 | 6.4 |
-| BM25F + expansion, no segmentation | 0.319 | 0.690 | 0.654 | 0.565 | 0.659 | 2.7 |
+| TF-IDF + expansion | 0.299 | 0.861 | 0.789 | 0.763 | 0.804 | 3.6 |
+| BM25F + expansion | 0.313 | 0.876 | 0.803 | 0.738 | 0.814 | 2.6 |
+| Hybrid RRF + expansion | 0.296 | 0.858 | 0.811 | 0.816 | 0.824 | 6.0 |
+| BM25F + expansion, no segmentation | 0.319 | 0.688 | 0.653 | 0.564 | 0.658 | 2.6 |
 
 ## T1 locals by district (EN) (77 queries)
 
@@ -82,4 +82,4 @@
 | TF-IDF + expansion | 0.100 | 1.000 | 0.840 | 0.840 | 0.878 |
 | BM25F + expansion | 0.100 | 1.000 | 0.823 | 0.823 | 0.866 |
 | Hybrid RRF + expansion | 0.100 | 1.000 | 0.841 | 0.841 | 0.880 |
-| BM25F + expansion, no segmentation | 0.003 | 0.030 | 0.025 | 0.025 | 0.026 |
+| BM25F + expansion, no segmentation | 0.002 | 0.020 | 0.020 | 0.020 | 0.020 |

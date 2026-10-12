@@ -67,14 +67,14 @@ def function_source(path: Path, qualname: str) -> tuple[int, str]:
     return start, "\n".join(l[indent:] for l in lines)
 
 
-def page(body: str, css: str = "", bg: str = "#ffffff") -> str:
+def page(body: str, css: str = "", bg: str = "#ffffff", width: int = WIDTH) -> str:
     return f"""<!doctype html><html><head><meta charset="utf-8"><style>
     html,body{{margin:0;background:{bg};}}
-    #root{{display:inline-block;padding:0;width:{WIDTH - 40}px}}
+    #root{{display:inline-block;padding:0;width:{width - 40}px}}
     {css}</style></head><body><div id="root">{body}</div></body></html>"""
 
 
-def render(name: str, html_text: str, height: int) -> Path:
+def render(name: str, html_text: str, height: int, width: int = WIDTH) -> Path:
     IMAGES.mkdir(parents=True, exist_ok=True)
     out = IMAGES / f"{name}.png"
     with tempfile.TemporaryDirectory(dir=ROOT / "report" / "build") as tmp:
@@ -82,7 +82,7 @@ def render(name: str, html_text: str, height: int) -> Path:
         src.write_text(html_text, encoding="utf-8")
         subprocess.run([EDGE, "--headless=new", "--disable-gpu", "--hide-scrollbars",
                         f"--user-data-dir={Path(tmp) / 'profile'}", "--force-device-scale-factor=2",
-                        f"--window-size={WIDTH - 40},{height}", f"--screenshot={out}", src.as_uri()],
+                        f"--window-size={width - 40},{height}", f"--screenshot={out}", src.as_uri()],
                        check=True, capture_output=True, timeout=120)
     return out
 

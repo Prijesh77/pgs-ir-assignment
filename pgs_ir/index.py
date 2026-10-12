@@ -209,7 +209,8 @@ class InvertedIndex:
             sim = shared / union
             if sim >= min_similarity and vocab_term != term:
                 scored.append((vocab_term, sim))
-        scored.sort(key=lambda x: (-x[1], -self.df(x[0])))
+        # ties broken by document frequency, then alphabetically, so results are repeatable
+        scored.sort(key=lambda x: (-x[1], -self.df(x[0]), x[0]))
         return scored[:limit]
 
     def stats(self) -> dict:

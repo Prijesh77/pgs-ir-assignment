@@ -85,6 +85,33 @@ query expansion.
 Per query group, and the ablation without word segmentation:
 [results/evaluation.md](results/evaluation.md).
 
+## Week 7: evaluation
+
+```bash
+python -m pgs_ir week7              # all experiments, about 35 s -> results/week7/
+python -m pgs_ir week7 --show E3    # print one saved section (E1, E3, E4, E6, E7)
+```
+
+New code: [pgs_ir/metrics.py](pgs_ir/metrics.py) (P@k, R@k, F1@k, R-Precision, AP, RR,
+Success@k, graded nDCG, 11-point interpolated precision) and
+[pgs_ir/week7.py](pgs_ir/week7.py) (graded judgments, experiments, paired randomisation
+test, BM25 tuning on a dev/test split). Report:
+[report/Week7-Evaluation-Report.docx](report/Week7-Evaluation-Report.docx).
+
+| Run | P@10 | R@10 | MAP | MRR | nDCG@10 |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Boolean (AND) | 0.341 | 0.742 | 0.622 | 0.616 | 0.657 |
+| TF-IDF | 0.293 | 0.723 | 0.652 | 0.638 | 0.682 |
+| BM25F | 0.296 | 0.729 | 0.643 | 0.583 | 0.691 |
+| TF-IDF + expansion | 0.299 | 0.861 | 0.789 | 0.763 | 0.813 |
+| BM25F + expansion | 0.313 | 0.876 | 0.803 | 0.738 | 0.837 |
+| Hybrid RRF + expansion | 0.296 | 0.858 | 0.811 | 0.816 | 0.835 |
+| BM25F + expansion, no segmentation | 0.319 | 0.688 | 0.653 | 0.564 | 0.664 |
+| BM25F + expansion, tuned | 0.349 | 0.904 | 0.865 | 0.827 | 0.889 |
+
+BM25 tuned on 232 dev queries (k1 = 0.5, b = 0.25); on the 229 held-out test
+queries MAP went from 0.794 to 0.854 (p < 0.001).
+
 ## How it relates to PGS
 
 | Step | PGS Search Engine | This project |
